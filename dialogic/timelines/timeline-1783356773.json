@@ -1,0 +1,198 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A chaleira no fogo vibra levemente, ajustando a própria posição como se fosse guiada por algo invisível. A água ferve no ponto exato, constante, estável."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Pequenas ondulações de energia atravessam o ambiente ao redor dele, como correntes suaves, organizadas — água e energia se movendo em harmonia, não em conflito."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Ele está usando seus poderes. Mas não como antes. Mais firme. Mais dele."
+		},
+		{
+			"choice": "Encarar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele não vira de imediato."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“...você acordou.” A voz vem calma."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Diferente da noite anterior — mais centrada, menos quebrada."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "1) // Se escolheu pegar a faca, acontece esse diálogo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Vai caçar?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele percebe sua confusão antes mesmo que você diga qualquer coisa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "“...a faca.”"
+		},
+		{
+			"choice": "1.3-Guardar faca",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "1.4-Jogar para um canto e se fazer de desentendida",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele te encara em silêncio, exigindo uma resposta que não vai deixar passar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Fiquei nervosa ao ouvir alguns barulhos. Melhor ficar atenta, certo?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele te olha com uma expressão serena, mas você percebe: ele se lembrou. Daquela noite. Ainda assim, não deixa nada disso quebrar a postura que escolheu manter."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“...certo.” -2 de luz"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "1.4- As palavras saem de você de forma abrupta, sem pensar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Faca? Que faca? Não sei do que você tá falando... isso existe mesmo? Engraçado, nunca vi uma na minha vida. Olha... olha como o céu tá bonito hoje. Sério. Até os pássaros estão mais... pássaros, né?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Enquanto fala, você começa a andar de forma desatenta e acaba caindo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quando você olha para Aslan, ele está rindo — de verdade. Nada forçado, nada contido, só um riso sincero que parece escapar dele depois de muito tempo preso."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E, por um instante, é como se tudo ao redor ficasse mais leve. É a primeira vez em muito tempo que você vê algo assim nele... e é, sem dúvida, uma das coisas mais bonitas que você já viu."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Como eu senti falta disso. “"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Eu também.” +4 de luz"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "// Fim do diálogo da decisão 1. // Se a escolha foi o 2 , pode seguir daqui.//"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sem pressa, ele pega o mazer, no gesto calmo de quem acaba de concluir o que estava fazendo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você ainda fica parada. Um cheiro delicioso se espalha, preenchendo o espaço com algo simples demais."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan continua de costas por mais um instante, como se estivesse terminando de organizar os próprios pensamentos junto com o fogo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A água se move sob seu comando, apagando o fogo."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783356773.json",
+		"name": "cap14"
+	}
+}

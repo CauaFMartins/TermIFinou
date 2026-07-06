@@ -1,0 +1,219 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Começou como uma adaptação forçada."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Nos primeiros dias, ainda eram apenas dois corpos deslocados dentro de um sistema que já funcionava antes deles chegarem."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Observavam mais do que interagiam, comiam mais do que conversavam, e dormiam com a sensação constante de que ali teria a resposta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Com o tempo, o que era observação virou presença. E a presença virou rotina..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan acabou se integrando mais facilmente ao lado funcional do lugar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele ajudava em pequenos serviços fora da estalagem quando necessário — carregar suprimentos, acompanhar entregas simples, resolver deslocamentos entre pontos da cidade baixa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não era algo formal, mas era aceito. Ele não chamava atenção e, ao mesmo tempo, fazia o suficiente para ser útil."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você, por outro lado, começou a se mover de forma diferente..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Começou a circular. A conversar. A observar de perto."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As atendentes foram os seus primeiros alvos."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No começo, eram interações curtas — pedidos, respostas rápidas, olhares que não duravam muito. Mas a frequência mudou tudo..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As primeiras aproximações com as atendentes foram pequenas, quase acidentais. Um copo entregue fora de hora. Uma ajuda silenciosa no salão cheio."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um olhar mais demorado em um dia mais cansado. Nada disso parecia importante isoladamente, mas dentro da rotina repetida da estalagem, tudo começou a se acumular."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Duas delas acabaram se aproximando mais."
+		},
+		{
+			"choice": "Saber mais",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A primeira se chamava Cora, era uma das atendentes mais constantes do turno da noite. Não falava muito no início, mas tinha uma forma direta de lidar com o salão que chamava atenção de Amara."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aos poucos, as conversas entre elas deixaram de ser só funcionais. Começaram a acontecer em pausas curtas, nos cantos mais silenciosos da estalagem, quando o movimento diminuía e o bar parecia respirar por conta própria."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "E era ali, que Amara conseguia o que precisava — nada importante o suficiente para mudar tudo, mas suficiente."
+		},
+		{
+			"choice": "Saber mais da segunda",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A segunda se chamava Catarina, a mais instável, mais leve na fala, mas também mais cansada. Tinha uma forma diferente de olhar para o salão, como se já tivesse aprendido onde não devia insistir."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Com ela, Amara encontrou algo mais raro: facilidade. Não há necessidade de bajulação constante. Apenas a troca era necessária. Às vezes, sentavam juntas por alguns minutos sem motivo real, só para escapar do barulho do salão."
+		},
+		{
+			"choice": "Continuar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Enquanto isso, Aslan observava tudo de longe, sem interferir. Ele não julgava, mas também não ignorava que aquilo mudava o jeito como Amara se movia dentro da estalagem"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "— mais confortável em certos espaços, mais atenta a outros, mais conectada ao fluxo humano do lugar."
+		},
+		{
+			"choice": "Abrir os olhos",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A luz da manhã entra pela janela do quarto de forma fraca, filtrada pelas frestas da madeira antiga. O som da estalagem lá embaixo ainda não atingiu o pico do dia — só ruídos leves, passos distantes, alguma louça sendo arrumada."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "O quarto está em silêncio."
+		},
+		{
+			"choice": "3- Voltar a dormir",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "4- Levantar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783361104.json",
+		"name": "cap21"
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "3.1 Após algumas horas, Aslan vem te acordar. Já é o fim da manhã, perto do horário de almoço. Você havia dito que ajudaria nos preparativos, já que a casa começa a se agitar com a chegada desse momento do dia."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O movimento leve pela casa contrasta com o silêncio das horas anteriores, trazendo uma sensação quase normal — quase."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Me deixa dormir.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Não, Amara. Deu a hora.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "3.2-”Não quero.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "3.3-” Me deixa em paz!”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Amara...Por favor.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Porra, Lian, me deixa em paz. Vê se morre e desaparece.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No instante em que essas palavras são ditas, um choque de realidade te atinge. Mas já é tarde — já foi dito."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No mesmo momento, uma quantidade absurda de água cai sobre você, como se fosse morrer e iria morrer. E então ela para."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele respira fundo... mas não é calma. É contenção. Algo rachando por dentro."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Da próxima vez que você falar dele assim...” a voz dele sai baixa, quebrada, fora de controle por um segundo, “eu vou te fazer engolir cada palavra até esquecer como se fala.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O olhar dele se perde por um instante, como se a própria mente tivesse escorregado para fora do lugar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Aslan, me desculpe. Eu não pensei.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Jura que não pensou? A sua sorte é que eu só tenho você.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": ""
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783362099.json",
+		"name": "cap22"
+	}
+}

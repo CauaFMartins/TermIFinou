@@ -1,0 +1,87 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E algo além disso — uma sensação de que a cidade, nesse ponto mais baixo, já não se expande para dentro, mas para fora... em direção ao limite. Uma floresta. Alta demais. Fechada demais."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Os dois descem quase ao mesmo tempo. Prende seu cavalo no suporte de madeira sem hesitar, conferindo o nó duas vezes, mais por instinto do que por necessidade."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O animal resfolega, cansado, e ela passa a mão pelo pescoço dele por um instante — um gesto rápido, mas presente."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ver a cena."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Diante deles, a fachada de uma estalagem antiga se destaca entre as construções menores."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A placa de madeira, já desgastada pelo tempo, balança levemente com o vento e ainda permite ler o nome: “Viajante Errante”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan se aproxima depois de terminar de amarrar o cavalo, mas é você quem mantém o olhar na entrada por alguns segundos antes dele falar:"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Estranho... não senti que a gente se perdeu em nenhum momento.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uma sensação que nenhum dos dois consegue explicar com clareza. Como se já soubessem onde estavam, mesmo sem nunca termos vindo antes."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ou como se o lugar já tivesse falado com eles de alguma forma que ainda não entendem. Talvez não seja só impressão. Talvez o vento tenha falado. Não em palavras... mas do jeito dele."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Vamos ver o que esse lugar esconde.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Recompor a postura. E segue em direção à porta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ao entrarem na estalagem Viajante Errante, o ambiente muda imediatamente."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783358986.json",
+		"name": "cap18"
+	}
+}

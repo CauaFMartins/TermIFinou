@@ -1,0 +1,81 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O interior é mais escuro do que o lado de fora sugere, iluminado por lamparinas espalhadas e pelo brilho fraco de uma lareira central."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O cheiro de madeira antiga, bebida forte e comida simples se mistura no ar. Algumas mesas estão ocupadas, outras vazias, mas ninguém parece realmente prestar atenção em quem entra ou sai."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O tipo de lugar que não pergunta demais. O tipo de lugar que guarda respostas... se você souber ouvir."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Amara e Aslan trocam um olhar rápido antes de se aproximarem do balcão. O atendente mal levanta a cabeça quando fala com eles."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Um quarto para dois.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A chave é entregue quase de imediato, junto de instruções curtas sobre o andar e a porta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O quarto é pequeno, funcional — duas camas, uma janela virada para os becos da parte baixa da cidade, e pouco mais do que o necessário para descansar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Antes de descerem para o salão principal, Aslan fica alguns segundos parado perto da cama, ajustando a própria aparência sem pressa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele passa a mão pelo cabelo branco, bagunçando mais do que ajeitando, e depois pega um pequeno frasco escuro que tinham conseguido antes de chegar à cidade."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O líquido é simples, quase comum, mas ao tocar nos fios, o branco do cabelo dele começa a escurecer levemente — não de forma perfeita, mas o suficiente para quebrar o padrão imediato de reconhecimento."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“não precisa de muito... ele já está bem diferente de meses atrás.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Em seguida, ele desliza a mão até o próprio pescoço e puxa discretamente o colar que Lian costumava usar, escondendo-o por baixo da roupa."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783359341.json",
+		"name": "cap19"
+	}
+}

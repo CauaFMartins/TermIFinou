@@ -1,0 +1,94 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Nada parece grandioso — mas tudo parece... movimentado demais."
+		},
+		{
+			"choice": "Observar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "À medida que se aproximam dos portões, o fluxo de pessoas aumenta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mercadores, viajantes... Gente demais entrando e saindo sem muita atenção de guardas cansados."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan diminui o ritmo. “É aqui.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Como você está?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele não precisa dizer, dá para ver. O olhar dele já está diferente — mais atento, mais direto."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Como se aquela cidade não fosse só um destino. Mas um começo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Vocês passam pelos portões sem dificuldade. E assim que entram, o barulho muda tudo..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Conversas sobrepostas, passos, madeira sendo arrastada, vozes chamando clientes, ordens sendo dadas sem pausa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O ar é mais quente aqui dentro, mais pesado também — não pelo clima, mas pela quantidade de vida acumulada no mesmo espaço."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan olha ao redor uma vez. Depois olha novamente."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“...a estalagem deve estar em algum ponto mais baixo da cidade.”"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783358355.json",
+		"name": "cap16"
+	}
+}

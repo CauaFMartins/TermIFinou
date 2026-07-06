@@ -1,0 +1,81 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Vai ficar aí?”- Você parte na frente."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele começa a andar..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As ruas da cidade são mais estreitas de perto do que pareciam ao longe."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O som muda assim que vocês entram — o vento aberto da estrada dá lugar a vozes próximas demais, passos apressados, madeira rangendo sob carroças e conversas que se sobrepõem sem se importar com quem escuta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O cheiro também muda. Fumaça de lareira, comida sendo preparada, poeira levantada pelomovimento constante. Nada aqui parece parado."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Olha ao redor enquanto avança. Via o jeito como as pessoas evitamolhar diretamente umas para as outras. O fluxo constante entrando e saindo de becos menores."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A forma como certos grupos se reúnem por pouco tempo antes de se dispersarem."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não comenta, mas guarda tudo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quando Aslan fala sobre as áreas mais baixas da cidade, segue o caminho que ele indica, ajustando o ritmo do cavalo junto com o dele sem precisar de explicação."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A descida começa a ficar mais íngreme. As construções ao redor mudam — menos cuidado, mais uso. Madeira escura, pedra antiga, estruturas que parecem ter sido adaptadas várias vezes ao longo do tempo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Aqui é estranho, o ar é diferente. Parece outro lugar.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não é só o som que diminui. É o tipo de gente. Menos olhares curiosos. Mais pressa. Mais discrição."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783358627.json",
+		"name": "cap17"
+	}
+}

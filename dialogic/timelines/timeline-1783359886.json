@@ -1,0 +1,208 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele olha pra você de lado."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“...melhor evitar olhares desnecessários.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Assente. - “Vamos.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quando entram no salão principal, o ambiente já está mais vivo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O lugar é quente, mas não acolhedor — funcional. Mesas ocupadas, conversas baixas, passos constantes."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A lareira central mantém o espaço iluminado em tons alaranjados que não chegam a suavizar completamente a atmosfera."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quando finalmente se sentam na mesa lateral, encostada na parede, o barulho do salão parece mais distante, mas não menos presente."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O movimento continua constante ao redor deles, como se o lugar nunca realmente parasse de funcionar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Elas não ficam paradas. Estão sempre em movimento. Sempre sendo chamadas.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E, ainda assim, há um padrão estranho — algumas mesas chamam mais atenção delas do que outras. Não é apenas serviço. É escolha."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“...você percebe isso?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Percebo.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele observa uma das atendentes se afastar rapidamente de uma mesa onde dois homens tentaram segurar a conversa por mais tempo do que o necessário."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Não é só trabalho, elas são parte lugar, usáveis.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Não gosto disso.” Ele dá de ombros leve."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Não precisa gostar pra perceber.” Ele solta o ar pelo nariz, quase um riso curto sem humor."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“...nada aqui é tão simples quanto parece.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan finalmente recosta um pouco na cadeira, ainda olhando o salão."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“É por isso que esse tipo de lugar funciona.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele faz uma pausa curta, escolhendo as palavras."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“As pessoas acham que estão só bebendo, só passando tempo, só... existindo aqui por algumas horas.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O olhar dele vai até o balcão. “Mas tudo aqui é troca.” Acompanho o olhar dele."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Informação?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "\"E controle..\""
+		},
+		{
+			"choice": "Silêncio",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Volto a atenção para uma das atendentes que passa rápido demais entre mesas, evitando contato direto com clientes insistentes."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“... o bar não é o ponto.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Não.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“É o meio.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E pela primeira vez desde que chegaram, nenhum dos dois continua falando imediatamente depois disso. Eles só observam."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Vendo o quanto tudo isso era ainda mais perigoso..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um mês se passou sem que notassem."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783359886.json",
+		"name": "cap20"
+	}
+}
