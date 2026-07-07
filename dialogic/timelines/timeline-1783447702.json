@@ -214,7 +214,94 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "A porta se abre forte contra o vento quando ela atravessa a entrada sem hesitar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lá fora, um dos homens ainda segura o braço enquanto o outro chuta o garoto de novo, dessa vez com força suficiente para apagá-lo completamente."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "O terceiro te encara."
+		},
+		{
+			"choice": "1.1- Apaziguar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "1.2- Lutar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "1.3- Juntar-se a eles",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O terceiro homem te examina dos pés à cabeça sem o menor constrangimento. “Perdeu alguma coisa, gata?” Ele dá uma risada curta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Porque, se tá procurando problema, acabou de encontrar.” O olhar dele demora em você mais uma vez."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "“E se não tá... talvez eu consiga te convencer a ficar mesmo assim.”"
+		},
+		{
+			"choice": "1.1-“Se estão tão entediados assim, por que não entram no Viajante Errante?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "1.2-“Que tal uma bebida??”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você lança um olhar rápido para o grupo."
+		},
+		{
+			"change_timeline": "timeline-1783450101.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
