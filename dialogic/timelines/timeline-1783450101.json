@@ -1,6 +1,268 @@
 {
 	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ela tá convidando a gente pra beber?” um deles pergunta, soltando uma risada."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ou tá tentando se livrar da gente?” outro responde."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O terceiro, o mesmo que não parava de te encarar, abre um sorriso torto."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“E por que a gente faria isso?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "Você dá de ombros. Um leve sorriso surge em seu rosto."
+		},
+		{
+			"choice": "1.3-“Porque tenho certeza de que cerveja boa é mais divertida do queficar aqui brincando com alguém que nem consegue revidar.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "1.4-“Vão me dizer que quebrar ossos é mais divertido do que uma boacaneca de cerveja?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "1.5-”Tem bebida, comida e gente interessante para incomodar lá dentro.Parece uma forma melhor de passar o tempo.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Olha só.” Um deles assobia. “Ela até tem coragem.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ou é burra.” Outro ri."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O homem que te encarava continua observando você por alguns segundos antes de falar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“E quem garante que a bebida presta?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Só existe um jeito de descobrir.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uma nova rodada de risadas percorre o grupo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Após alguns instantes, os três seguem você em direção ao Viajante Errante, ainda trocando piadas entre si, como se os acontecimentos dos últimos minutos não passassem de uma distração qualquer."
+		},
+		{
+			"choice": "Permitir-se um último olhar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Antes de entrar no Viajante Errante, você lança um último olhar por cima do ombro. O homem continua onde foi deixado, encolhido no chão. Por um instante, os olhos dele encontram os seus."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não há palavras."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Apenas um leve relaxar dos ombros, como se uma tensão que o acompanhava há horas finalmente tivesse cedido. O olhar cansado permanece fixo em você por alguns segundos, carregado de algo difícil de descrever."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gratidão. Talvez surpresa. Talvez as duas coisas. Então ele abaixa a cabeça, como se não soubesse como expressar aquilo em palavras. Ele se vai. +7 de luz"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "2) Você acompanha o olhar dele até o fim. \"Perdeu alguma coisa, gata?”, repete ele. Seu olhar se desvia dele por um instante e para no homem ferido."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Talvez\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O terceiro homem arqueia uma sobrancelha."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“E o que seria?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Você aponta discretamente para o cadeirante."
+		},
+		{
+			"choice": "2.1 -”Um motivo.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "2.2-” Minha mão na sua cara.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "2.3-”Homens.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Por um segundo, há silêncio. Então um dos outros homens cai na gargalhada."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ouviram isso?” O terceiro continua te encarando."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Você é sempre assim?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Assim como?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Metendo o nariz onde não foi chamada.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você dá de ombros."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Vocês estavam fazendo um espetáculo no meio da rua. Fica difícil ignorar.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Espetáculo?” Um deles ri. “Gostei dessa, garotinha engraçada”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O outro dá um chute no homem no chão."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Ele também deve estar adorando a sua participação.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Os três riem. Seu olhar percorre os três em silêncio."
+		},
+		{
+			"change_timeline": "timeline-1783451537.json",
+			"event_id": "dialogic_020"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5.1",
