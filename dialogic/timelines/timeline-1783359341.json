@@ -71,6 +71,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Em seguida, ele desliza a mão até o próprio pescoço e puxa discretamente o colar que Lian costumava usar, escondendo-o por baixo da roupa."
+		},
+		{
+			"change_timeline": "timeline-1783359886.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

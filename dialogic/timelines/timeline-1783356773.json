@@ -188,6 +188,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "A água se move sob seu comando, apagando o fogo."
+		},
+		{
+			"change_timeline": "timeline-1783357302.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

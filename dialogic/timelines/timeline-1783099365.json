@@ -139,6 +139,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Você pisca devagar, tentando lembrar do que aconteceu antes de dormir."
+		},
+		{
+			"change_timeline": "timeline-1783100008.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

@@ -113,6 +113,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Você continua, sem olhar diretamente para ele:"
+		},
+		{
+			"change_timeline": "timeline-1781632675.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

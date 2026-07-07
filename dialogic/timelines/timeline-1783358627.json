@@ -71,6 +71,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Não é só o som que diminui. É o tipo de gente. Menos olhares curiosos. Mais pressa. Mais discrição."
+		},
+		{
+			"change_timeline": "timeline-1783358986.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

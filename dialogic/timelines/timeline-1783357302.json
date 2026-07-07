@@ -219,6 +219,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Muros baixos de pedra, construções próximas demais umas das outras, fumaça saindo de chaminés antigas e o som distante de atividade constante."
+		},
+		{
+			"change_timeline": "timeline-1783358355.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

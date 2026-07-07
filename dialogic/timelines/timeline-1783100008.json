@@ -120,6 +120,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Silêncio errado."
+		},
+		{
+			"change_timeline": "timeline-1783100275.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

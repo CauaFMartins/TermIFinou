@@ -115,6 +115,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Mas presente."
+		},
+		{
+			"change_timeline": "timeline-1783356773.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

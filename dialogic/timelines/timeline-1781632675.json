@@ -113,6 +113,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Então, devagar, ele deixa a cabeça cair sobre o seu ombro."
+		},
+		{
+			"change_timeline": "timeline-1783099365.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
