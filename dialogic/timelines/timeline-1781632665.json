@@ -184,13 +184,7 @@
 			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-...sozinha..."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "(acabando a força, quase sussurro)"
+			"text": "...sozinha..."
 		},
 		{
 			"character": "character-1777839556.json",
@@ -199,18 +193,27 @@
 			"text": "Eu não sei viver sem vocês..."
 		},
 		{
-			"emit_signal": "carta_antiga",
-			"event_id": "dialogic_040"
-		},
-		{
-			"background": "res://icon.png",
+			"background": "res://Artes/Fundos/oseawt2l.png",
 			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
-			"event_id": "dialogic_001",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
 			"portrait": "",
-			"text": ""
+			"question": ""
+		},
+		{
+			"choice": "Continuar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"change_timeline": "timeline-1781632679.json",

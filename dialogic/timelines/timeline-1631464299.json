@@ -67,10 +67,6 @@
 			"text": "Você segue em frente. "
 		},
 		{
-			"event_id": "dialogic_024",
-			"set_theme": "theme-1631463496.cfg"
-		},
-		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -80,28 +76,7 @@
 			"question": "Sem saber que, naquele exato momento, algo já começou a mudar."
 		},
 		{
-			"choice": "Vou perder meu tempo conversando com vocês ou vamos resolver isso de uma vez.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Estou tentando decidir quanto esforço vocês realmente merecem.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Estou tentando descobrir se vocês são realmente estúpidos ou só fingem muito bem.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "Você acha que quantos de vocês vão continuar sorrindo daqui acinco minutos?",
+			"choice": "Continuar",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -109,10 +84,6 @@
 		},
 		{
 			"event_id": "dialogic_013"
-		},
-		{
-			"event_id": "dialogic_024",
-			"set_theme": "theme-1631463496.cfg"
 		},
 		{
 			"change_timeline": "timeline-1777835378.json",
