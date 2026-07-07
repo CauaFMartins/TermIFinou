@@ -164,14 +164,21 @@
 			"question": "Amara apoia o braço na mesa."
 		},
 		{
-			"choice": "",
+			"choice": "1-“Milagre estarmos dormindo.”",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "",
+			"choice": "2-”Você é minha mãe agora?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "2-”Fiquei pensando em você..”",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -179,6 +186,40 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A atendente ri baixo antes de continuar andando."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan observa a interação por um instante, mas não comenta nada. Só se senta de frente para a janela enquanto o movimento da rua começa a aumentar lá fora."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Por um tempo, tudo parece normal."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Clientes entrando. Pedidos simples. Conversa baixa preenchendo o salão."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Até que um barulho diferente surge do lado de fora."
+		},
+		{
+			"change_timeline": "timeline-1783447702.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
