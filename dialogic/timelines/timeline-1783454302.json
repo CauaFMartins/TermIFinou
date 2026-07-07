@@ -35,6 +35,182 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Aslan continua."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Eles diziam que tinham sido pagos pela metade.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sua voz fica mais firme conforme a memória ganha forma."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Um deles falou que o caminho pela floresta estava ficando perigoso.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Outro fragmento retorna."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sua voz fica mais firme conforme a memória ganha forma."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Um deles falou que o caminho pela floresta estava ficando perigoso.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Outro fragmento retorna."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"E então alguém respondeu que valia a pena pelo dinheiro.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Que o cliente gostava da rota velha.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "O silêncio que se segue é diferente dos outros."
+		},
+		{
+			"choice": "Observar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Amara volta a olhar para os três homens. Agora eles parecem completamente comuns novamente. Um está reclamando da bebida. Outro gesticula exageradamente enquanto fala. O terceiro já parece mais interessado na comida que acabou de chegar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan acompanha cada movimento deles sem piscar por muito tempo. Quando finalmente desvia o olhar, parece estar organizando os próprios pensamentos."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Eles não estão aqui por acaso.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "- “Nem a gente.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um canto quase imperceptível surge no rosto dele. Não chega a ser um sorriso. Mas é próximo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "- “Eu sabia que você ia dizer isso.”"
+		},
+		{
+			"choice": "1)- ” Porque você me conhece.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "2)- ” Acho que nascemos juntos.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "3) - “Será que somos irmãos?”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "- ” Infelizmente.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Idiota.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O momento dura pouco. Os três homens terminam as bebidas e começam a se levantar. A mudança é imediata. Aslan acompanha o movimento. Amara também."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Vamos seguir eles? “"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan observa os homens colocarem os casacos."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Se eles realmente estavam naquela noite...”"
+		},
+		{
+			"change_timeline": "",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
