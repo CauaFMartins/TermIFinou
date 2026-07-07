@@ -94,7 +94,212 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "-“Eu estava pensando a mesma coisa sobre vocês.” A última provocação foi o bastante. O sorriso do terceiro homem desaparece primeiro. Depois, o dos outros."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "“Eu sabia que tinha alguma coisa errada com você”, ele balbucia."
+		},
+		{
+			"choice": "2.10-“Demorou para perceber, amor.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "2.11-”É o que dizem.”",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um deles avança."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Foi um erro."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você se move antes mesmo que ele termine o passo. Em um instante, ele está no chão, sem entender o que aconteceu. O segundo tenta agarrá-la por trás e recebe uma cotovelada que o obriga a recuar, cambaleando entre xingamentos."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O terceiro é mais rápido, mas não rápido o suficiente."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A briga dura menos do que o orgulho deles gostaria de admitir."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quando termina, os três estão de pé apenas por teimosia. Feridos, humilhados e, acima de tudo, furiosos."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Isso não acabou”, um deles cospe."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Os três trocam olhares antes de seguirem para o Viajante Errante, empurrando a porta com força e desaparecendo para dentro do bar em meio a uma enxurrada de reclamações e ameaças."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Só depois que eles somem de vista você dá atenção para o rapaz."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Ei\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele ergue os olhos."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Já foram.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Por um instante, ele apenas fica em silêncio, como se ainda estivesse esperando que eles voltassem."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você se agacha ao lado dele e observa o estado em que o deixaram."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Vamos. Eu posso chamar alguém. Ou te levar até quem possa ajudar.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele diz firme e balança a cabeça."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Não. Eu já estive pior.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A resposta vem rápida demais para ser contrariada. Você suspira."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Pelo menos deixa eu te acompanhar.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele permanece em silêncio por alguns segundos."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Fiz esse caminho sozinho, então posso voltar por ele do mesmo jeito.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A frase sai baixa, mas firme."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você percebe que insistir não vai mudar nada."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Depois de alguns instantes, ele apoia a mão no aro da cadeira."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Obrigado.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Sem esperar uma resposta, ele começa a se afastar rua abaixo. Devagar. Com dificuldade. Teimosamente."
+		},
+		{
+			"choice": "Observar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Antes de virar a esquina, ele para. Lança um último olhar em sua direção. Então segue seu caminho sozinho. +20 de luz"
+		},
+		{
+			"change_timeline": "timeline-1783452402.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

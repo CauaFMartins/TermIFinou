@@ -1,0 +1,239 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "3) Um dos outros homens assovia."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Temos companhia.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O terceiro deixa o olhar passear por você sem o menor pudor."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um sorriso preguiçoso surge em seu rosto."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“E que companhia.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O outro dá uma risada."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "\"Se veio se juntar à festa, acho que podemos levá-la para um lugar mais reservado.\""
+		},
+		{
+			"choice": "Encarar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Seu olhar desce até o rapaz caído no chão. Você observa a cena por alguns segundos. O silêncio faz os homens trocarem olhares."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Então?” pergunta um deles."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Então, seria uma pena parar agora.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Os três ficam em silêncio. Te encarando. A ponta do seu dedo se acende. Você volta a olhar para o homem desacordado."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Pelo que estou vendo, vocês já começaram sem mim.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Por um instante, ninguém reage."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Então uma gargalhada explode entre eles."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Eu sabia!” Um deles aponta para você."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O terceiro abre um sorriso satisfeito."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Gostei dela.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Você se abaixa."
+		},
+		{
+			"choice": "Queimar. *Efeito de decisão crítica, se der.*",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A chama na ponta de seus dedos começa a queimar o corpo do homem. Ela aumenta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Ele grita. Se contorce. Pede socorro."
+		},
+		{
+			"choice": "Queimar o olho dele.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Não há sangue. Apenas a pele carbonizada cobrindo metade do rosto."
+		},
+		{
+			"choice": "Queimar a Língua.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não há mais nenhum som a ser emitido, mas o sofrimento é nítido. Ele se contorce enquanto seu corpo é consumido pelas chamas. Observando tudo, fascinada pelo sofrimento que causa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Até os três homens parecem abalados. O entusiasmo de antes desaparece, deixando apenas surpresa e receio. Com um passo trêmulo, ele se aproxima."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Sabia que tinha algo diferente em você.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O olhar dele desce por você mais uma vez."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Talvez a gente se dê bem, afinal.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "E, pela primeira vez em muito tempo, você ri. Perda total de luz"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "game over"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "2) -Ignorar."
+		},
+		{
+			"change_timeline": "",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783452402.json",
+		"name": "cap27"
+	}
+}
