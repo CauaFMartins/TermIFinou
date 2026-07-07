@@ -1,0 +1,189 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "4.1 Aslan está sentado na beira da cama, já acordado há um tempo, olhando para as próprias mãos como se estivesse verificando algo que não está mais lá."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O cabelo, ainda levemente escurecido do disfarce, está mais bagunçado do que ontem. O colar de Lian continua ali."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Amara está encostada na parede oposta, ainda meio entre o sono e o despertar, observando sem pressa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Por alguns segundos, nenhum dos dois fala."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Bom dia! Dormiu bem?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“...você também sonhou com isso de novo?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Amara não responde de imediato."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ela ajusta a postura, mais acordada agora."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Não.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Sério? Acordei com a sensação de que tinha alguém no quarto.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "“Olho para ele, incrédula por um instante, mas entendo o que ele tenta fazer — e digo:”"
+		},
+		{
+			"choice": "4.2-“Normal eu acho. “",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "4.3-”Não imagino o motivo”. secura/corta conversa",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "4.4- Não responder — apenas jogar um travesseiro.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "4.5-”Brilhante, um gênio da observação.” deboche",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele ri."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "” Vamos descer, temos um longo dia.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "* Todas as opções funcionam +1 de luz/ sanidade"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O salão da Viajante Errante ainda está acordando junto com a cidade. O movimento é menor do que nas noites cheias, mais lento, mais humano."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Algumas mesas já estão ocupadas por viajantes cansados demais para subir aos quartos, enquanto outras recebem os primeiros clientes do dia."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O cheiro de pão quente e café recém-passado ocupa o ambiente."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan segue ao lado de Amara enquanto procuram uma mesa livre perto da janela. Sem precisar conversar muito, os dois já sabem quais lugares oferecem melhor visão da entrada e menos atenção desnecessária."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uma das atendentes passa por eles com uma bandeja apoiada no ombro."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Vocês acordaram tarde hoje.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Amara apoia o braço na mesa."
+		},
+		{
+			"choice": "",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"choice": "",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1783446657.json",
+		"name": "cap23"
+	}
+}

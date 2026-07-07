@@ -94,7 +94,89 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": ""
+			"text": "No mesmo instante, ele desaba no chão. O corpo cede como se algo dentro dele tivesse se quebrado por completo."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele chora, sem conseguir se conter, e o medo toma conta — o medo de nunca mais poder olhar para ele, o medo do que poderia ter feito, do que poderia ter destruído... do que ainda resta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fica nítido que nada de bom vai surgir desse momento. Ele está se desfazendo de novo, se perdendo de novo, afundando na própria culpa mais uma vez. Talvez te culpando também — não importa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Eu não vou fingir que isso não aconteceu... nem vou tentar diminuir o que você sente agora, e eu sei que você está se afogando nisso como se não houvesse saída. Mas você não pode se perder aqui. Não pode deixar meu erro te consumir."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eu não estou te dizendo isso pra apagar o que aconteceu. Estou te dizendo porque você está aqui. Porque você não desistiu... e eu te juro que ele vai ser salvo. Peça perdão, desculpas, tudo o que quiser, mas volta."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Foca.Eu sei que a vida não está como antes. Eu também entendo isso. Mas eu te garanto que não vai ficar assim para sempre... não enquanto eu estiver aqui.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele congela. O olhar prende no seu, pesado. Então respira, lento, quebrado:"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Tudo o que eu quiser?”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-“Me desculpe, de verdade.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Eu te desculpo... às vezes sinto como se ainda estivéssemos lá, todos nós. Eu só sinto falta dele.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-”Eu sei. Eu também.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Algum tempo se passa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Vem. Está na hora do seu turno.”"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você assente em silêncio e vai. -1 de luz"
+		},
+		{
+			"change_timeline": "timeline-1783446657.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {
