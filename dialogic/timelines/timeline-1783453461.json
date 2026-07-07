@@ -1,6 +1,185 @@
 {
 	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você não olha mais. O som que vem logo depois é suficiente."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Outro chute. Outro soco. Gritos. Aslan vê tudo. Mas ninguém se move. O salão continua existindo ao redor deles."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Talheres. Conversas. Passos. Mais um dia normal. Lá fora, continua por alguns minutos. Até acabar. Não porque alguém ajudou. Apenas porque, eventualmente, não havia mais nada a ser feito. A vida continua. //sem kael"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*Fim das escolhas, continuam daqui.*"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Então a porta da Viajante Errante se abre."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Três homens entram conversando alto, ainda carregando o tipo de energia de quem acabou de sair de uma briga. O primeiro atravessa o salão sem sequer olhar ao redor."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O segundo continua contando alguma história entre risadas. O terceiro parece mais interessado na bebida do que em qualquer outra coisa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eles passam despercebidos para quase todos."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quase."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Amara nota primeiro a mudança em Aslan. Ele para de mexer na caneca. Os ombros endurecem levemente. O olhar fixa em algum ponto à frente antes de acompanhar os recém-chegados atravessando o salão."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Por um momento, Amara acredita que ele esteja apenas observando mais um grupo de clientes."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Então percebe sua expressão. E entende que não é isso. Aslan não está analisando. Está lembrando."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan demora alguns segundos para responder."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ele continua observando os homens se acomodarem numa mesa mais ao fundo do salão, chamando uma atendente com a familiaridade de quem já esteve ali muitas vezes."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quando finalmente fala, sua voz também está diferente. Mais distante."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
 
+			],
+			"portrait": "",
+			"question": "\"Eu conheço aquela voz.\""
+		},
+		{
+			"choice": "Ouvir",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Amara permanece em silêncio. Sabe que interrompê-lo agora seria um erro."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan apoia os antebraços na mesa e mantém os olhos fixos nos homens. Não porque esteja encarando. Mas porque parece incapaz de desviar. Sua mão fecha devagar ao redor da caneca."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Eu lembro deles conversando.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A memória parece vir aos poucos, como peças emergindo debaixo d'água. Fragmentos. Sensações. Vozes."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "O gosto metálico do sangue. A dor ardente. E aquelas vozes. Falando como se ele já estivesse morto."
+		},
+		{
+			"choice": "Se recompor",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Pela primeira vez desde que chegaram à cidade, não parece que ele está tentando se lembrar."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Parece que a memória decidiu voltar sozinha."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "\"Naquela noite...\" ele continua, sem tirar os olhos dos homens. \"Eu não conseguia abrir os olhos direito. Mas conseguia ouvir.\""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sua expressão endurece."
+		},
+		{
+			"change_timeline": "",
+			"event_id": "dialogic_020"
+		}
 	],
 	"metadata": {
 		"dialogic-version": "1.5.1",
