@@ -14,15 +14,22 @@
 		},
 		{
 			"character": "",
-			"event_id": "dialogic_001",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
 			"portrait": "",
-			"text": "O animal resfolega, cansado, e ela passa a mão pelo pescoço dele por um instante — um gesto rápido, mas presente."
+			"question": "O animal resfolega, cansado, e ela passa a mão pelo pescoço dele por um instante — um gesto rápido, mas presente."
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Ver a cena."
+			"choice": "Ver a cena",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"character": "",
@@ -34,7 +41,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "A placa de madeira, já desgastada pelo tempo, balança levemente com o vento e ainda permite ler o nome: “Viajante Errante”"
+			"text": "A placa de madeira, já desgastada pelo tempo, balança levemente com o vento e ainda permite ler o nome: "
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "“Viajante Errante”"
 		},
 		{
 			"character": "",
@@ -43,10 +56,10 @@
 			"text": "Aslan se aproxima depois de terminar de amarrar o cavalo, mas é você quem mantém o olhar na entrada por alguns segundos antes dele falar:"
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Estranho... não senti que a gente se perdeu em nenhum momento.”"
+			"text": "Estranho... não senti que a gente se perdeu em nenhum momento."
 		},
 		{
 			"character": "",
@@ -61,16 +74,29 @@
 			"text": "Ou como se o lugar já tivesse falado com eles de alguma forma que ainda não entendem. Talvez não seja só impressão. Talvez o vento tenha falado. Não em palavras... mas do jeito dele."
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
 			"portrait": "",
-			"text": "-“Vamos ver o que esse lugar esconde.”"
+			"question": "Vamos ver o que esse lugar esconde."
+		},
+		{
+			"choice": "Recompor a postura",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Recompor a postura. E segue em direção à porta."
+			"text": "E você segue em direção à porta."
 		},
 		{
 			"character": "",

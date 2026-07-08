@@ -22,7 +22,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "E há som. Movimento."
+			"text": "Há som e movimento."
 		},
 		{
 			"character": "",
@@ -41,11 +41,27 @@
 			"value": ""
 		},
 		{
+			"definition": "1783466081-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "true"
+		},
+		{
 			"choice": "Não",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"definition": "1783466081-648",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "false"
 		},
 		{
 			"event_id": "dialogic_013"

@@ -4,6 +4,12 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
+			"text": "Um mês se passou sem que notassem."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
 			"text": "Começou como uma adaptação forçada."
 		},
 		{
@@ -161,12 +167,22 @@
 		},
 		{
 			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "— mais confortável em certos espaços, mais atenta a outros, mais conectada ao fluxo humano do lugar."
+		},
+		{
+			"background": "res://Artes/Fundos/oseawt2l.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "— mais confortável em certos espaços, mais atenta a outros, mais conectada ao fluxo humano do lugar."
+			"question": ""
 		},
 		{
 			"choice": "Abrir os olhos",
@@ -174,6 +190,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://Artes/Fundos/começo.png",
+			"event_id": "dialogic_021"
 		},
 		{
 			"event_id": "dialogic_013"

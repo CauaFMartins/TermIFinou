@@ -1,10 +1,10 @@
 {
 	"events": [
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Eu não sei onde ele está... nem o que aconteceu de verdade.”"
+			"text": "Eu não sei onde ele está... nem o que aconteceu de verdade."
 		},
 		{
 			"character": "",

@@ -1,10 +1,16 @@
 {
 	"events": [
 		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Vai ficar aí?"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Vai ficar aí?”- Você parte na frente."
+			"text": "Você parte na frente."
 		},
 		{
 			"character": "",
@@ -28,7 +34,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "O cheiro também muda. Fumaça de lareira, comida sendo preparada, poeira levantada pelomovimento constante. Nada aqui parece parado."
+			"text": "O cheiro também muda. Fumaça de lareira, comida sendo preparada, poeira levantada pelo movimento constante. Nada aqui parece parado."
 		},
 		{
 			"character": "",
@@ -52,7 +58,7 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Quando Aslan fala sobre as áreas mais baixas da cidade, segue o caminho que ele indica, ajustando o ritmo do cavalo junto com o dele sem precisar de explicação."
+			"text": "Quando Aslan fala sobre as áreas mais baixas da cidade, você segue o caminho que ele indica, ajustando o ritmo do cavalo junto com o dele sem precisar de explicação."
 		},
 		{
 			"character": "",
@@ -61,10 +67,10 @@
 			"text": "A descida começa a ficar mais íngreme. As construções ao redor mudam — menos cuidado, mais uso. Madeira escura, pedra antiga, estruturas que parecem ter sido adaptadas várias vezes ao longo do tempo."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-”Aqui é estranho, o ar é diferente. Parece outro lugar.”"
+			"text": "Aqui é estranho, o ar é diferente. Parece outro lugar."
 		},
 		{
 			"character": "",

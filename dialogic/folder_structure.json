@@ -5,6 +5,7 @@
 	"folders": {
 		"Characters": {
 			"files": [
+				"character-1783467769.json",
 				"character-1783100813.json",
 				"character-1783100811.json",
 				"character-1777851120.json",
@@ -38,7 +39,9 @@
 				},
 				"Variáveis": {
 					"files": [
-						"1781631819-970"
+						"1781631819-970",
+						"1783466081-648",
+						"1783466287-787"
 					],
 					"folders": {
 

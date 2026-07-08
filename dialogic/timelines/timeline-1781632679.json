@@ -159,27 +159,6 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"animation": "slide_in_right.gd",
-			"animation_length": 2,
-			"animation_wait": false,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1777851120.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "Default",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": true,
-				"4": false
-			},
-			"type": 0,
-			"z_index": 0
-		},
-		{
 			"change_timeline": "timeline-1781632678.json",
 			"event_id": "dialogic_020"
 		}

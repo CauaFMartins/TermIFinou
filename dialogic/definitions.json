@@ -12,9 +12,21 @@
 	"variables": [
 		{
 			"id": "1781631819-970",
-			"name": "pulseira_casamento",
+			"name": "corrente_lian",
 			"type": 0,
-			"value": "false"
+			"value": ""
+		},
+		{
+			"id": "1783466081-648",
+			"name": "pegar_faca",
+			"type": 0,
+			"value": ""
+		},
+		{
+			"id": "1783466287-787",
+			"name": "luz",
+			"type": 0,
+			"value": "30"
 		}
 	]
 }

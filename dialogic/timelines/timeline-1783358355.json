@@ -35,13 +35,19 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Aslan diminui o ritmo. “É aqui.”"
+			"text": "Aslan diminui o ritmo. "
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-“Como você está?”"
+			"text": "É aqui."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Como você está?"
 		},
 		{
 			"character": "",
@@ -80,10 +86,10 @@
 			"text": "Aslan olha ao redor uma vez. Depois olha novamente."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“...a estalagem deve estar em algum ponto mais baixo da cidade.”"
+			"text": "...a estalagem deve estar em algum ponto mais baixo da cidade."
 		},
 		{
 			"change_timeline": "timeline-1783358627.json",

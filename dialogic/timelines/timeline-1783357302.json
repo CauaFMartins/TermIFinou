@@ -7,16 +7,28 @@
 			"text": "A chaleira baixa o som. Só então se vira."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Fiz Bochet ” -”Você fez?”"
+			"text": "Fiz Bochet!"
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você fez?"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ele toma um gole de sua bebida. “Uhum...Lian me ensinou.”"
+			"text": "Ele toma um gole de sua bebida. "
+		},
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uhum...Lian me ensinou."
 		},
 		{
 			"character": "",
@@ -44,13 +56,19 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Lembrei de uma coisa."
+		},
+		{
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "“Lembrei de uma coisa.” “Não é tudo, mas é o suficiente pra seguir.”"
+			"question": "Não é tudo, mas é o suficiente pra seguir."
 		},
 		{
 			"choice": "Demonstrar que está ouvindo",
@@ -63,16 +81,16 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Eles pensaram que eu estava morto... disseram sobre uma estalagem na cidade mais próxima da rota leste. Não era só um lugar comum... era ponto de passagem."
+			"text": "Eles pensaram que eu estava morto... disseram sobre uma estalagem na cidade mais próxima da rota leste. Não era só um lugar comum... era ponto de passagem."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Um lugar que não aparece ser oficialmente, mas todo mundo que trabalha com ‘entregas’ conhece.”"
+			"text": "Um lugar que não aparece ser oficialmente, mas todo mundo que trabalha com  ‘entregas’ conhece."
 		},
 		{
 			"character": "",
@@ -81,13 +99,13 @@
 			"text": "Ele apoia os cotovelos na mesa, mais firme."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "“O Lian foi levado, não foi aleatório. Ele passou por esse tipo de rota. Deve ter algo, uma dica, qualquer coisa, eu não sei.”"
+			"question": "O Lian foi levado, não foi aleatório. Ele passou por esse tipo de rota. Deve ter algo, uma dica, qualquer coisa, eu não sei."
 		},
 		{
 			"choice": "Tomar outro gole",
@@ -103,31 +121,43 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Então ele conclui, simples: “É por aí que vou começar.”"
+			"text": "Então ele conclui, simples:"
+		},
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "É por aí que vou começar."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Ele te olha. “E eu queria...”"
+			"text": "Ele te olha. "
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Eu vou.”"
+			"text": "E eu queria..."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Nem terminei de falar, Amara.”"
+			"text": "Eu vou."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-”Não importa, ele é a minha família. “"
+			"text": "Nem terminei de falar, Amara."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não importa, ele é a minha família. "
 		},
 		{
 			"character": "",
@@ -136,13 +166,13 @@
 			"text": "E depois disso, ele já começa a se levantar, pronto para entrar."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "“Vamos pra cidade.”"
+			"question": "Vamos pra cidade."
 		},
 		{
 			"choice": "Ir",

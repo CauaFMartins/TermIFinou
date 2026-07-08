@@ -25,10 +25,10 @@
 			"text": "Amara e Aslan trocam um olhar rápido antes de se aproximarem do balcão. O atendente mal levanta a cabeça quando fala com eles."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-”Um quarto para dois.”"
+			"text": "Um quarto para dois."
 		},
 		{
 			"character": "",
@@ -61,16 +61,25 @@
 			"text": "O líquido é simples, quase comum, mas ao tocar nos fios, o branco do cabelo dele começa a escurecer levemente — não de forma perfeita, mas o suficiente para quebrar o padrão imediato de reconhecimento."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“não precisa de muito... ele já está bem diferente de meses atrás.”"
+			"text": "não precisa de muito... ele já está bem diferente de meses atrás."
+		},
+		{
+			"condition": "",
+			"definition": "1781631819-970",
+			"event_id": "dialogic_012",
+			"value": "true"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Em seguida, ele desliza a mão até o próprio pescoço e puxa discretamente o colar que Lian costumava usar, escondendo-o por baixo da roupa."
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"change_timeline": "timeline-1783359886.json",

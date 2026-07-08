@@ -53,6 +53,14 @@
 			"value": ""
 		},
 		{
+			"definition": "1781631819-970",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "true"
+		},
+		{
 			"emit_signal": "corrente_lian",
 			"event_id": "dialogic_040"
 		},
@@ -62,6 +70,14 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"definition": "1781631819-970",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "false"
 		},
 		{
 			"event_id": "dialogic_013"
