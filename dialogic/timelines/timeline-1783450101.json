@@ -331,11 +331,11 @@
 			"text": "Os três riem. Seu olhar percorre os três em silêncio."
 		},
 		{
-			"change_timeline": "timeline-1783451537.json",
-			"event_id": "dialogic_020"
+			"event_id": "dialogic_013"
 		},
 		{
-			"event_id": "dialogic_013"
+			"change_timeline": "timeline-1783451537.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

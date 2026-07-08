@@ -5,6 +5,7 @@
 	"folders": {
 		"Characters": {
 			"files": [
+				"character-1783515799.json",
 				"character-1783475100.json",
 				"character-1783474424.json",
 				"character-1783467769.json",
@@ -20,7 +21,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Definitions": {
@@ -30,15 +31,14 @@
 			"folders": {
 				"Glossário": {
 					"files": [
-						"1781630498-918",
-						"1783482374-918"
+						"1781630498-918"
 					],
 					"folders": {
 
 					},
 					"metadata": {
 						"color": null,
-						"folded": false
+						"folded": true
 					}
 				},
 				"Variáveis": {
@@ -59,11 +59,12 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Themes": {
 			"files": [
+				"theme-1783514224.cfg",
 				"theme-1783350220.cfg",
 				"theme-1631463496.cfg"
 			],
@@ -72,7 +73,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": true
+				"folded": false
 			}
 		},
 		"Timelines": {

@@ -81,7 +81,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Dialogic Visual Novel Template"
-run/main_scene="res://project/ControlsWarning.tscn"
+run/main_scene="res://project/Thumb.tscn"
 config/icon="res://icon.png"
 
 [autoload]

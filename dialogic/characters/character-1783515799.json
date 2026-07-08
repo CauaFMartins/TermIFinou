@@ -1,0 +1,21 @@
+{
+	"color": "#ff042117",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1783515799.json",
+	"mirror_portraits": false,
+	"name": "Narrador",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Artes/Arte-TFEAE/Personagens/Narrador (1).png"
+		}
+	],
+	"scale": 40,
+	"theme": ""
+}

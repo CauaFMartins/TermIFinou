@@ -16,7 +16,7 @@
 			"question": "\"Que foi?\""
 		},
 		{
-			"choice": "Vou perder meu tempo conversando com vocês ou vamos resolverisso de uma vez.",
+			"choice": "Vou perder meu tempo conversando com vocês ou vamos resolver isso de uma vez.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
