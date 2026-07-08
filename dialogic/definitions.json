@@ -7,6 +7,14 @@
 			"text": "arma branca achada no chão, defesa básica contra inimigos",
 			"title": "Faca",
 			"type": 1
+		},
+		{
+			"extra": "",
+			"id": "1783482374-918",
+			"name": "cu",
+			"text": "lorem ipsum dolor",
+			"title": "cu",
+			"type": 1
 		}
 	],
 	"variables": [
