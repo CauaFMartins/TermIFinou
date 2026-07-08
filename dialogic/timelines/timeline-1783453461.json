@@ -1,6 +1,12 @@
 {
 	"events": [
 		{
+			"condition": "",
+			"definition": "1783478362-366",
+			"event_id": "dialogic_012",
+			"value": "ignorar"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -16,13 +22,10 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Talheres. Conversas. Passos. Mais um dia normal. Lá fora, continua por alguns minutos. Até acabar. Não porque alguém ajudou. Apenas porque, eventualmente, não havia mais nada a ser feito. A vida continua. //sem kael"
+			"text": "Talheres. Conversas. Passos. Mais um dia normal. Lá fora, continua por alguns minutos. Até acabar. Não porque alguém ajudou. Apenas porque, eventualmente, não havia mais nada a ser feito. A vida continua. "
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "*Fim das escolhas, continuam daqui.*"
+			"event_id": "dialogic_013"
 		},
 		{
 			"character": "",
@@ -91,13 +94,13 @@
 			"text": "Quando finalmente fala, sua voz também está diferente. Mais distante."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "\"Eu conheço aquela voz.\""
+			"question": "Eu conheço aquela voz."
 		},
 		{
 			"choice": "Ouvir",
@@ -122,10 +125,10 @@
 			"text": "Aslan apoia os antebraços na mesa e mantém os olhos fixos nos homens. Não porque esteja encarando. Mas porque parece incapaz de desviar. Sua mão fecha devagar ao redor da caneca."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "\"Eu lembro deles conversando.\""
+			"text": "Eu lembro deles conversando."
 		},
 		{
 			"character": "",
@@ -165,10 +168,22 @@
 			"text": "Parece que a memória decidiu voltar sozinha."
 		},
 		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Naquela noite..."
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "\"Naquela noite...\" ele continua, sem tirar os olhos dos homens. \"Eu não conseguia abrir os olhos direito. Mas conseguia ouvir.\""
+			"text": "ele continua, sem tirar os olhos dos homens. ouvir.\""
+		},
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eu não conseguia abrir os olhos direito. Mas conseguia ouvir."
 		},
 		{
 			"character": "",
@@ -177,7 +192,7 @@
 			"text": "Sua expressão endurece."
 		},
 		{
-			"change_timeline": "",
+			"change_timeline": "timeline-1783454302.json",
 			"event_id": "dialogic_020"
 		}
 	],

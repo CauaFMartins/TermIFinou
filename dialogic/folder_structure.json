@@ -5,9 +5,12 @@
 	"folders": {
 		"Characters": {
 			"files": [
+				"character-1783475100.json",
+				"character-1783474424.json",
 				"character-1783467769.json",
 				"character-1783100813.json",
 				"character-1783100811.json",
+				"character-1783472721.json",
 				"character-1777851120.json",
 				"character-1777850547.json",
 				"character-1777839556.json"
@@ -17,7 +20,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Definitions": {
@@ -41,7 +44,8 @@
 					"files": [
 						"1781631819-970",
 						"1783466081-648",
-						"1783466287-787"
+						"1783466287-787",
+						"1783478362-366"
 					],
 					"folders": {
 
@@ -67,7 +71,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Timelines": {

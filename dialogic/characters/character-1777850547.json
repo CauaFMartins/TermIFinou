@@ -13,9 +13,9 @@
 	"portraits": [
 		{
 			"name": "Default",
-			"path": "res://Artes/Personagens/Lian_Medieval-removebg-preview.png"
+			"path": "res://Artes/Arte-TFE/Personagens/Lian.png"
 		}
 	],
-	"scale": 40,
+	"scale": 87,
 	"theme": "theme-1631463496.cfg"
 }

@@ -1,6 +1,12 @@
 {
 	"events": [
 		{
+			"condition": "",
+			"definition": "1783478362-366",
+			"event_id": "dialogic_012",
+			"value": "lutar"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -10,28 +16,36 @@
 			"question": "\"Que foi?\""
 		},
 		{
-			"choice": "2.4-“Vou perder meu tempo conversando com vocês ou vamos resolverisso de uma vez.”",
+			"choice": "Vou perder meu tempo conversando com vocês ou vamos resolverisso de uma vez.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "2.5- “Estou tentando decidir quanto esforço vocês realmente merecem.”",
+			"choice": "Estou tentando decidir quanto esforço vocês realmente merecem.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "2.6-“Estou tentando descobrir se vocês são realmente estúpidos ou sófingem muito bem.” +1 de luz/sanidade",
+			"choice": "Estou tentando descobrir se vocês são realmente estúpidos ou só fingem muito bem.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "2.7-“Você acha que quantos de vocês vão continuar sorrindo daqui acinco minutos?”",
+			"definition": "1783466287-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"choice": "Você acha que quantos de vocês vão continuar sorrindo daqui a cinco minutos?",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -53,23 +67,23 @@
 			"text": "O terceiro inclina a cabeça."
 		},
 		{
-			"character": "",
+			"character": "character-1783472721.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "“Cuidado, gata.”"
+			"question": "Cuidado, gata."
 		},
 		{
-			"choice": "2.8-“Com o quê?”",
+			"choice": "Com o quê?",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "2.9-\"Dúvido que vou precisar.”",
+			"choice": "Dúvido que vou precisar.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -91,29 +105,35 @@
 			"text": "Uma pequena pausa."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-“Eu estava pensando a mesma coisa sobre vocês.” A última provocação foi o bastante. O sorriso do terceiro homem desaparece primeiro. Depois, o dos outros."
+			"text": "Eu estava pensando a mesma coisa sobre vocês."
 		},
 		{
 			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "A última provocação foi o bastante. O sorriso do terceiro homem desaparece primeiro. Depois, o dos outros."
+		},
+		{
+			"character": "character-1783472721.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "“Eu sabia que tinha alguma coisa errada com você”, ele balbucia."
+			"question": "Eu sabia que tinha alguma coisa errada com você"
 		},
 		{
-			"choice": "2.10-“Demorou para perceber, amor.”",
+			"choice": "Demorou para perceber, amor.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "2.11-”É o que dizem.”",
+			"choice": "É o que dizem.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -159,10 +179,16 @@
 			"text": "Quando termina, os três estão de pé apenas por teimosia. Feridos, humilhados e, acima de tudo, furiosos."
 		},
 		{
+			"character": "character-1783100813.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Isso não acabou!"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Isso não acabou”, um deles cospe."
+			"text": "um deles cospe."
 		},
 		{
 			"character": "",
@@ -177,10 +203,10 @@
 			"text": "Só depois que eles somem de vista você dá atenção para o rapaz."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "\"Ei\""
+			"text": "Ei"
 		},
 		{
 			"character": "",
@@ -189,10 +215,10 @@
 			"text": "Ele ergue os olhos."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-“Já foram.”"
+			"text": "Já foram."
 		},
 		{
 			"character": "",
@@ -207,10 +233,10 @@
 			"text": "Você se agacha ao lado dele e observa o estado em que o deixaram."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-“Vamos. Eu posso chamar alguém. Ou te levar até quem possa ajudar.”"
+			"text": "Vamos. Eu posso chamar alguém. Ou te levar até quem possa ajudar."
 		},
 		{
 			"character": "",
@@ -219,10 +245,10 @@
 			"text": "Ele diz firme e balança a cabeça."
 		},
 		{
-			"character": "",
+			"character": "character-1783474424.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Não. Eu já estive pior.”"
+			"text": "Não. Eu já estive pior."
 		},
 		{
 			"character": "",
@@ -231,10 +257,10 @@
 			"text": "A resposta vem rápida demais para ser contrariada. Você suspira."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-“Pelo menos deixa eu te acompanhar.”"
+			"text": "Pelo menos deixa eu te acompanhar."
 		},
 		{
 			"character": "",
@@ -243,10 +269,10 @@
 			"text": "Ele permanece em silêncio por alguns segundos."
 		},
 		{
-			"character": "",
+			"character": "character-1783474424.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Fiz esse caminho sozinho, então posso voltar por ele do mesmo jeito.”"
+			"text": "Fiz esse caminho sozinho, então posso voltar por ele do mesmo jeito."
 		},
 		{
 			"character": "",
@@ -267,10 +293,10 @@
 			"text": "Depois de alguns instantes, ele apoia a mão no aro da cadeira."
 		},
 		{
-			"character": "",
+			"character": "character-1783474424.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Obrigado.”"
+			"text": "Obrigado."
 		},
 		{
 			"character": "",
@@ -295,7 +321,18 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Antes de virar a esquina, ele para. Lança um último olhar em sua direção. Então segue seu caminho sozinho. +20 de luz"
+			"text": "Antes de virar a esquina, ele para. Lança um último olhar em sua direção. Então segue seu caminho sozinho."
+		},
+		{
+			"definition": "1783466287-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "20"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"change_timeline": "timeline-1783452402.json",

@@ -1,0 +1,21 @@
+{
+	"color": "#ffed11a6",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1783475100.json",
+	"mirror_portraits": false,
+	"name": "Cora",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://Artes/Arte-TFE/Personagens/Cataria_atendente.png"
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

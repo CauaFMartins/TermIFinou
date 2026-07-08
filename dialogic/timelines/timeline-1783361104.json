@@ -205,32 +205,6 @@
 			"text": "A luz da manhã entra pela janela do quarto de forma fraca, filtrada pelas frestas da madeira antiga. O som da estalagem lá embaixo ainda não atingiu o pico do dia — só ruídos leves, passos distantes, alguma louça sendo arrumada."
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": "O quarto está em silêncio."
-		},
-		{
-			"choice": "3- Voltar a dormir",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "4- Levantar",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
 			"change_timeline": "timeline-1783362099.json",
 			"event_id": "dialogic_020"
 		}

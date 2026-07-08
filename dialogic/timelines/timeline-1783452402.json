@@ -1,16 +1,22 @@
 {
 	"events": [
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "3) Um dos outros homens assovia."
+			"condition": "",
+			"definition": "1783478362-366",
+			"event_id": "dialogic_012",
+			"value": "ferrou"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Temos companhia.”"
+			"text": "Um dos outros homens assovia"
+		},
+		{
+			"character": "character-1783100811.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Temos companhia."
 		},
 		{
 			"character": "",
@@ -25,10 +31,10 @@
 			"text": "Um sorriso preguiçoso surge em seu rosto."
 		},
 		{
-			"character": "",
+			"character": "character-1783472721.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“E que companhia.”"
+			"text": "E que companhia."
 		},
 		{
 			"character": "",
@@ -37,13 +43,13 @@
 			"text": "O outro dá uma risada."
 		},
 		{
-			"character": "",
+			"character": "character-1783472721.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "\"Se veio se juntar à festa, acho que podemos levá-la para um lugar mais reservado.\""
+			"question": "Se veio se juntar à festa, acho que podemos levá-la para um lugar mais reservado."
 		},
 		{
 			"choice": "Encarar",
@@ -62,16 +68,16 @@
 			"text": "Seu olhar desce até o rapaz caído no chão. Você observa a cena por alguns segundos. O silêncio faz os homens trocarem olhares."
 		},
 		{
-			"character": "",
+			"character": "character-1783100813.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Então?” pergunta um deles."
+			"text": "Então?"
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Então, seria uma pena parar agora.\""
+			"text": "Então, seria uma pena parar agora."
 		},
 		{
 			"character": "",
@@ -80,10 +86,10 @@
 			"text": "Os três ficam em silêncio. Te encarando. A ponta do seu dedo se acende. Você volta a olhar para o homem desacordado."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-“Pelo que estou vendo, vocês já começaram sem mim.”"
+			"text": "Pelo que estou vendo, vocês já começaram sem mim."
 		},
 		{
 			"character": "",
@@ -98,10 +104,16 @@
 			"text": "Então uma gargalhada explode entre eles."
 		},
 		{
+			"character": "character-1783100813.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eu sabia! "
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Eu sabia!” Um deles aponta para você."
+			"text": "Um deles aponta para você."
 		},
 		{
 			"character": "",
@@ -110,10 +122,10 @@
 			"text": "O terceiro abre um sorriso satisfeito."
 		},
 		{
-			"character": "",
+			"character": "character-1783472721.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Gostei dela.”"
+			"text": "Gostei dela."
 		},
 		{
 			"character": "",
@@ -125,7 +137,7 @@
 			"question": "Você se abaixa."
 		},
 		{
-			"choice": "Queimar. *Efeito de decisão crítica, se der.*",
+			"choice": "Queimar.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -188,13 +200,13 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Até os três homens parecem abalados. O entusiasmo de antes desaparece, deixando apenas surpresa e receio. Com um passo trêmulo, ele se aproxima."
+			"text": "Até os três homens parecem abalados. O entusiasmo de antes desaparece, deixando apenas surpresa e receio. Com um passo trêmulo, um deles se aproxima."
 		},
 		{
-			"character": "",
+			"character": "character-1783100811.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Sabia que tinha algo diferente em você.”"
+			"text": "Sabia que tinha algo diferente em você."
 		},
 		{
 			"character": "",
@@ -203,10 +215,10 @@
 			"text": "O olhar dele desce por você mais uma vez."
 		},
 		{
-			"character": "",
+			"character": "character-1783100811.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Talvez a gente se dê bem, afinal.”"
+			"text": "Talvez a gente se dê bem, afinal."
 		},
 		{
 			"character": "",
@@ -215,19 +227,28 @@
 			"text": "E, pela primeira vez em muito tempo, você ri. Perda total de luz"
 		},
 		{
+			"definition": "1783466287-787",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1000"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "game over"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "2) -Ignorar."
+			"background": "res://Artes/Arte-TFE/Alert-dos-comandos/safe.png",
+			"event_id": "dialogic_021"
 		},
 		{
-			"change_timeline": "",
+			"event_id": "dialogic_013"
+		},
+		{
+			"change_timeline": "timeline-1783453461.json",
 			"event_id": "dialogic_020"
 		}
 	],

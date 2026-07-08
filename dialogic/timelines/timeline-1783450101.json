@@ -1,16 +1,28 @@
 {
 	"events": [
 		{
-			"character": "",
+			"condition": "",
+			"definition": "1783478362-366",
+			"event_id": "dialogic_012",
+			"value": "apaziguar"
+		},
+		{
+			"character": "character-1783100813.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Ela tá convidando a gente pra beber?” um deles pergunta, soltando uma risada."
+			"text": "Ela tá convidando a gente pra beber?"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Ou tá tentando se livrar da gente?” outro responde."
+			"text": "um deles pergunta, soltando uma risada."
+		},
+		{
+			"character": "character-1783100811.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ou tá tentando se livrar da gente?"
 		},
 		{
 			"character": "",
@@ -19,10 +31,10 @@
 			"text": "O terceiro, o mesmo que não parava de te encarar, abre um sorriso torto."
 		},
 		{
-			"character": "",
+			"character": "character-1783472721.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“E por que a gente faria isso?”"
+			"text": "E por que a gente faria isso?"
 		},
 		{
 			"character": "",
@@ -34,21 +46,21 @@
 			"question": "Você dá de ombros. Um leve sorriso surge em seu rosto."
 		},
 		{
-			"choice": "1.3-“Porque tenho certeza de que cerveja boa é mais divertida do queficar aqui brincando com alguém que nem consegue revidar.”",
+			"choice": "Porque tenho certeza de que cerveja boa é mais divertida do queficar aqui brincando com alguém que nem consegue revidar.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "1.4-“Vão me dizer que quebrar ossos é mais divertido do que uma boacaneca de cerveja?”",
+			"choice": "Vão me dizer que quebrar ossos é mais divertido do que uma boacaneca de cerveja?",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "1.5-”Tem bebida, comida e gente interessante para incomodar lá dentro.Parece uma forma melhor de passar o tempo.”",
+			"choice": "Tem bebida, comida e gente interessante para incomodar lá dentro.Parece uma forma melhor de passar o tempo.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -58,16 +70,28 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"character": "",
+			"character": "character-1783100811.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Olha só.” Um deles assobia. “Ela até tem coragem.”"
+			"text": "Olha só."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Ou é burra.” Outro ri."
+			"text": "Um deles assobia. "
+		},
+		{
+			"character": "character-1783100811.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ela até tem coragem."
+		},
+		{
+			"character": "character-1783100813.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ou é burra. ri."
 		},
 		{
 			"character": "",
@@ -76,16 +100,16 @@
 			"text": "O homem que te encarava continua observando você por alguns segundos antes de falar."
 		},
 		{
-			"character": "",
+			"character": "character-1783472721.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“E quem garante que a bebida presta?”"
+			"text": "E quem garante que a bebida presta?"
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Só existe um jeito de descobrir.”"
+			"text": "Só existe um jeito de descobrir."
 		},
 		{
 			"character": "",
@@ -134,19 +158,48 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Gratidão. Talvez surpresa. Talvez as duas coisas. Então ele abaixa a cabeça, como se não soubesse como expressar aquilo em palavras. Ele se vai. +7 de luz"
+			"text": "Gratidão. Talvez surpresa. Talvez as duas coisas. Então ele abaixa a cabeça, como se não soubesse como expressar aquilo em palavras. Ele se vai."
+		},
+		{
+			"definition": "1783466287-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "7"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"condition": "",
+			"definition": "1783478362-366",
+			"event_id": "dialogic_012",
+			"value": "lutar"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "2) Você acompanha o olhar dele até o fim. \"Perdeu alguma coisa, gata?”, repete ele. Seu olhar se desvia dele por um instante e para no homem ferido."
+			"text": "Você acompanha o olhar dele até o fim. "
+		},
+		{
+			"character": "character-1783472721.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Perdeu alguma coisa, gata?"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "\"Talvez\""
+			"text": "Ele repete. Seu olhar se desvia dele por um instante e para no homem ferido."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Talveez"
 		},
 		{
 			"character": "",
@@ -155,10 +208,10 @@
 			"text": "O terceiro homem arqueia uma sobrancelha."
 		},
 		{
-			"character": "",
+			"character": "character-1783472721.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“E o que seria?”"
+			"text": "E o que seria?"
 		},
 		{
 			"character": "",
@@ -170,21 +223,21 @@
 			"question": "Você aponta discretamente para o cadeirante."
 		},
 		{
-			"choice": "2.1 -”Um motivo.”",
+			"choice": "Um motivo.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "2.2-” Minha mão na sua cara.”",
+			"choice": "Minha mão na sua cara.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "2.3-”Homens.”",
+			"choice": "Homens.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -200,28 +253,34 @@
 			"text": "Por um segundo, há silêncio. Então um dos outros homens cai na gargalhada."
 		},
 		{
-			"character": "",
+			"character": "character-1783100813.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Ouviram isso?” O terceiro continua te encarando."
+			"text": "Ouviram isso?"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Você é sempre assim?”"
+			"text": "O terceiro continua te encarando."
 		},
 		{
-			"character": "",
+			"character": "character-1783100813.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-“Assim como?”"
+			"text": "Você é sempre assim?"
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Metendo o nariz onde não foi chamada.”"
+			"text": "Assim como?"
+		},
+		{
+			"character": "character-1783100811.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Metendo o nariz onde não foi chamada."
 		},
 		{
 			"character": "",
@@ -230,16 +289,28 @@
 			"text": "Você dá de ombros."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-“Vocês estavam fazendo um espetáculo no meio da rua. Fica difícil ignorar.”"
+			"text": "Vocês estavam fazendo um espetáculo no meio da rua. Fica difícil ignorar."
+		},
+		{
+			"character": "character-1783100811.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Espetáculo? engraçada”"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Espetáculo?” Um deles ri. “Gostei dessa, garotinha engraçada”"
+			"text": "Um deles ri."
+		},
+		{
+			"character": "character-1783100811.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Gostei dessa, garotinha engraçada"
 		},
 		{
 			"character": "",
@@ -248,10 +319,10 @@
 			"text": "O outro dá um chute no homem no chão."
 		},
 		{
-			"character": "",
+			"character": "character-1783100813.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Ele também deve estar adorando a sua participação.”"
+			"text": "Ele também deve estar adorando a sua participação."
 		},
 		{
 			"character": "",
@@ -262,6 +333,9 @@
 		{
 			"change_timeline": "timeline-1783451537.json",
 			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {

@@ -132,14 +132,14 @@
 			"question": "Amara sente o corpo tensionar."
 		},
 		{
-			"choice": "1-Intervir",
+			"choice": "Intervir",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "2-Ignorar",
+			"choice": "Ignorar",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -155,16 +155,16 @@
 			"text": "Amara consegue ouvir tudo dali."
 		},
 		{
-			"character": "",
+			"character": "character-1783100813.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Vê se morre.”"
+			"text": "Vê se morre."
 		},
 		{
-			"character": "",
+			"character": "character-1783100811.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Você ouviu aleijado?”"
+			"text": "Você ouviu aleijado?"
 		},
 		{
 			"character": "",
@@ -188,27 +188,11 @@
 			"question": "Tudo indica que o próximo alvo será seu braço. Amara sente o corpo tensionar."
 		},
 		{
-			"choice": "1-Intervir",
+			"choice": "Intervir",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
-		},
-		{
-			"choice": "2-Ignorar",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "1) -Intervir."
 		},
 		{
 			"character": "",
@@ -232,25 +216,67 @@
 			"question": "O terceiro te encara."
 		},
 		{
-			"choice": "1.1- Apaziguar",
+			"choice": "Apaziguar",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "1.2- Lutar",
+			"definition": "1783478362-366",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "apaziguar"
+		},
+		{
+			"choice": "Lutar",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "1.3- Juntar-se a eles",
+			"definition": "1783478362-366",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "lutar"
+		},
+		{
+			"choice": "Juntar-se a eles",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"definition": "1783478362-366",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "ferrou"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"choice": "Ignorar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1783478362-366",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "ignorar"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -259,36 +285,63 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "O terceiro homem te examina dos pés à cabeça sem o menor constrangimento. “Perdeu alguma coisa, gata?” Ele dá uma risada curta."
+			"text": "O terceiro homem te examina dos pés à cabeça sem o menor constrangimento."
+		},
+		{
+			"character": "character-1783472721.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Perdeu alguma coisa, gata?"
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Porque, se tá procurando problema, acabou de encontrar.” O olhar dele demora em você mais uma vez."
+			"text": "Ele dá uma risada curta."
 		},
 		{
-			"character": "",
+			"character": "character-1783472721.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Porque, se tá procurando problema, acabou de encontrar."
+		},
+		{
+			"character": "character-1783472721.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O olhar dele demora em você mais uma vez."
+		},
+		{
+			"character": "character-1783472721.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "“E se não tá... talvez eu consiga te convencer a ficar mesmo assim.”"
+			"question": "E se não tá... talvez eu consiga te convencer a ficar mesmo assim."
 		},
 		{
-			"choice": "1.1-“Se estão tão entediados assim, por que não entram no Viajante Errante?”",
+			"condition": "",
+			"definition": "1783478362-366",
+			"event_id": "dialogic_012",
+			"value": "apaziguar"
+		},
+		{
+			"choice": "Se estão tão entediados assim, por que não entram no Viajante Errante?",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "1.2-“Que tal uma bebida??”",
+			"choice": "Que tal uma bebida??",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"event_id": "dialogic_013"

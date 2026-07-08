@@ -2,9 +2,25 @@
 	"events": [
 		{
 			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "O quarto está em silêncio"
+		},
+		{
+			"choice": "Voltar a dormir",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "3.1 Após algumas horas, Aslan vem te acordar. Já é o fim da manhã, perto do horário de almoço. Você havia dito que ajudaria nos preparativos, já que a casa começa a se agitar com a chegada desse momento do dia."
+			"text": "Após algumas horas, Aslan vem te acordar. Já é o fim da manhã, perto do horário de almoço. Você havia dito que ajudaria nos preparativos, já que a casa começa a se agitar com a chegada desse momento do dia."
 		},
 		{
 			"character": "",
@@ -13,40 +29,54 @@
 			"text": "O movimento leve pela casa contrasta com o silêncio das horas anteriores, trazendo uma sensação quase normal — quase."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-”Me deixa dormir.”"
+			"text": "Me deixa dormir."
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
 			"portrait": "",
-			"text": "“Não, Amara. Deu a hora.”"
+			"question": "Não, Amara. Deu a hora."
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "3.2-”Não quero.”"
+			"choice": "Não quero",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "3.3-” Me deixa em paz!”"
+			"choice": "Me deixa em paz",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "“Amara...Por favor.”"
+			"event_id": "dialogic_013"
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-”Porra, Lian, me deixa em paz. Vê se morre e desaparece.”"
+			"text": "Amara...Por favor."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Porra, Lian, me deixa em paz. "
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Vê se morre e desaparece."
 		},
 		{
 			"character": "",
@@ -67,10 +97,22 @@
 			"text": "Ele respira fundo... mas não é calma. É contenção. Algo rachando por dentro."
 		},
 		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Da próxima vez que você falar dele assim... "
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Da próxima vez que você falar dele assim...” a voz dele sai baixa, quebrada, fora de controle por um segundo, “eu vou te fazer engolir cada palavra até esquecer como se fala.”"
+			"text": "A voz dele sai baixa, quebrada, fora de controle por um segundo."
+		},
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Eu vou te fazer engolir cada palavra até esquecer como se fala!"
 		},
 		{
 			"character": "",
@@ -79,16 +121,16 @@
 			"text": "O olhar dele se perde por um instante, como se a própria mente tivesse escorregado para fora do lugar."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-”Aslan, me desculpe. Eu não pensei.”"
+			"text": "Aslan, me desculpe. Eu não pensei."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Jura que não pensou? A sua sorte é que eu só tenho você.”"
+			"text": "Jura que não pensou? A sua sorte é que eu só tenho você."
 		},
 		{
 			"character": "",
@@ -109,22 +151,22 @@
 			"text": "Fica nítido que nada de bom vai surgir desse momento. Ele está se desfazendo de novo, se perdendo de novo, afundando na própria culpa mais uma vez. Talvez te culpando também — não importa."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "“Eu não vou fingir que isso não aconteceu... nem vou tentar diminuir o que você sente agora, e eu sei que você está se afogando nisso como se não houvesse saída. Mas você não pode se perder aqui. Não pode deixar meu erro te consumir."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Eu não estou te dizendo isso pra apagar o que aconteceu. Estou te dizendo porque você está aqui. Porque você não desistiu... e eu te juro que ele vai ser salvo. Peça perdão, desculpas, tudo o que quiser, mas volta."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Foca.Eu sei que a vida não está como antes. Eu também entendo isso. Mas eu te garanto que não vai ficar assim para sempre... não enquanto eu estiver aqui.”"
+			"text": "Eu sei que a vida não está como antes. Eu também entendo isso. Mas eu te garanto que não vai ficar assim para sempre... não enquanto eu estiver aqui."
 		},
 		{
 			"character": "",
@@ -133,28 +175,28 @@
 			"text": "Ele congela. O olhar prende no seu, pesado. Então respira, lento, quebrado:"
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Tudo o que eu quiser?”"
+			"text": "Tudo o que eu quiser?"
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-“Me desculpe, de verdade.”"
+			"text": "Me desculpe, de verdade."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Eu te desculpo... às vezes sinto como se ainda estivéssemos lá, todos nós. Eu só sinto falta dele.”"
+			"text": "Eu te desculpo... às vezes sinto como se ainda estivéssemos lá, todos nós. Eu só sinto falta dele."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-”Eu sei. Eu também.”"
+			"text": "Eu sei. Eu também."
 		},
 		{
 			"character": "",
@@ -163,16 +205,172 @@
 			"text": "Algum tempo se passa."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Vem. Está na hora do seu turno.”"
+			"text": "Vem. Está na hora do seu turno."
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Você assente em silêncio e vai. -1 de luz"
+			"text": "Você assente em silêncio e vai. "
+		},
+		{
+			"definition": "1783466287-787",
+			"event_id": "dialogic_014",
+			"operation": "-",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"choice": "Levantar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Aslan está sentado na beira da cama, já acordado há um tempo, olhando para as próprias mãos como se estivesse verificando algo que não está mais lá."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O cabelo, ainda levemente escurecido do disfarce, está mais bagunçado do que ontem. O colar de Lian continua ali."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Amara está encostada na parede oposta, ainda meio entre o sono e o despertar, observando sem pressa."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Por alguns segundos, nenhum dos dois fala."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bom dia! Dormiu bem?"
+		},
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "...você também sonhou com isso de novo?"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "-Amara não responde de imediato."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ela ajusta a postura, mais acordada agora."
+		},
+		{
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não.”"
+		},
+		{
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sério? Acordei com a sensação de que tinha alguém no quarto."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Olho para ele, incrédula por um instante, mas entendo o que ele tenta fazer — e digo:"
+		},
+		{
+			"choice": "Normal eu acho",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1783466287-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"choice": "Não imagino o motivo",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1783466287-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"choice": "Não responder",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1783466287-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você joga um traveseiro nele"
+		},
+		{
+			"choice": "Brilhante, um gênio da observação",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"definition": "1783466287-787",
+			"event_id": "dialogic_014",
+			"operation": "+",
+			"random_upper_limit": 100,
+			"set_random": false,
+			"set_value": "1"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"change_timeline": "timeline-1783446657.json",

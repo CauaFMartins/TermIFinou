@@ -4,119 +4,17 @@
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "4.1 Aslan está sentado na beira da cama, já acordado há um tempo, olhando para as próprias mãos como se estivesse verificando algo que não está mais lá."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "O cabelo, ainda levemente escurecido do disfarce, está mais bagunçado do que ontem. O colar de Lian continua ali."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Amara está encostada na parede oposta, ainda meio entre o sono e o despertar, observando sem pressa."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Por alguns segundos, nenhum dos dois fala."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "-”Bom dia! Dormiu bem?”"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "“...você também sonhou com isso de novo?”"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Amara não responde de imediato."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Ela ajusta a postura, mais acordada agora."
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "-”Não.”"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "“Sério? Acordei com a sensação de que tinha alguém no quarto.”"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_010",
-			"options": [
-
-			],
-			"portrait": "",
-			"question": "“Olho para ele, incrédula por um instante, mas entendo o que ele tenta fazer — e digo:”"
-		},
-		{
-			"choice": "4.2-“Normal eu acho. “",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "4.3-”Não imagino o motivo”. secura/corta conversa",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "4.4- Não responder — apenas jogar um travesseiro.",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"choice": "4.5-”Brilhante, um gênio da observação.” deboche",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"event_id": "dialogic_013"
-		},
-		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
 			"text": "Ele ri."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "” Vamos descer, temos um longo dia.”"
+			"text": "Vamos descer, temos um longo dia."
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "* Todas as opções funcionam +1 de luz/ sanidade"
+			"background": "res://Artes/Fundos/galap.png",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
@@ -149,10 +47,10 @@
 			"text": "Uma das atendentes passa por eles com uma bandeja apoiada no ombro."
 		},
 		{
-			"character": "",
+			"character": "character-1783475100.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "“Vocês acordaram tarde hoje.”"
+			"text": "Vocês acordaram tarde hoje."
 		},
 		{
 			"character": "",
@@ -164,21 +62,21 @@
 			"question": "Amara apoia o braço na mesa."
 		},
 		{
-			"choice": "1-“Milagre estarmos dormindo.”",
+			"choice": "Milagre estarmos dormindo.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "2-”Você é minha mãe agora?”",
+			"choice": "Você é minha mãe agora?",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "2-”Fiquei pensando em você..”",
+			"choice": "Fiquei pensando em você..",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",

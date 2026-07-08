@@ -13,10 +13,10 @@
 			"text": "O olhar acompanha os três atravessando o salão."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-“Então eles sabem alguma coisa.”"
+			"text": "Então eles sabem alguma coisa."
 		},
 		{
 			"character": "",
@@ -25,10 +25,10 @@
 			"text": "Amara se levanta antes mesmo dele terminar."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-” Ótimo.”"
+			"text": "Ótimo."
 		},
 		{
 			"character": "",
@@ -37,37 +37,37 @@
 			"text": "Aslan ergue uma sobrancelha."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "-”Ótimo?”"
+			"question": "Ótimo?"
 		},
 		{
-			"choice": "1)-” Faz meses que a gente está ouvindo rumores.”",
+			"choice": "Faz meses que a gente está ouvindo rumores.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "2)-\"Estamos nessa há meses. “",
+			"choice": "Estamos nessa há meses.",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "3) -\"Não é para isso que estamos aqui?\"",
+			"choice": "Não é para isso que estamos aqui?",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "4) -“ Já desistiu?”",
+			"choice": "Já desistiu?",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -83,22 +83,22 @@
 			"text": "Ele solta uma risada curta."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-”Pela primeira vez temos pessoas de verdade.”"
+			"text": "Pela primeira vez temos pessoas de verdade."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-” Pessoas que provavelmente tentaram me matar.”"
+			"text": "Pessoas que provavelmente tentaram me matar."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-” Melhor ainda.”"
+			"text": "Melhor ainda."
 		},
 		{
 			"character": "",
@@ -107,16 +107,16 @@
 			"text": "Ele solta outra risada. Pequena. Mas sincera."
 		},
 		{
-			"character": "",
+			"character": "character-1777851120.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-” Você é assustadora”."
+			"text": "Você é assustadora."
 		},
 		{
-			"character": "",
+			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "-” Você é lento.”"
+			"text": "Você é lento."
 		},
 		{
 			"character": "",
@@ -134,21 +134,11 @@
 			"question": "A porta da Viajante Errante se fecha atrás deles."
 		},
 		{
-			"choice": "1) Ficar",
+			"choice": "Ficar",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
-		},
-		{
-			"choice": "2) Sair",
-			"condition": "",
-			"definition": "",
-			"event_id": "dialogic_011",
-			"value": ""
-		},
-		{
-			"event_id": "dialogic_013"
 		},
 		{
 			"character": "",
@@ -157,16 +147,27 @@
 			"text": "1- GAME OVER"
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "2) Um minuto depois, saímos também. A distância entre os grupos é segura. Nem perto demais. Nem longe demais."
+			"background": "res://Artes/Arte-TFE/Alert-dos-comandos/safe.png",
+			"event_id": "dialogic_021"
+		},
+		{
+			"choice": "Sair",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
 		},
 		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "O movimento da estalagem desaparece. O Viajante Errante fica para trás. VE então surge a floresta. Imensa. Densa."
+			"text": "Um minuto depois, saímos também. A distância entre os grupos é segura. Nem perto demais. Nem longe demais."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "O movimento da estalagem desaparece. O Viajante Errante fica para trás. Então surge a floresta. Imensa. Densa."
 		},
 		{
 			"character": "",
@@ -217,6 +218,9 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "E, sem hesitar mais, atravessam a linha das árvores. A floresta os engole."
+		},
+		{
+			"event_id": "dialogic_013"
 		}
 	],
 	"metadata": {
