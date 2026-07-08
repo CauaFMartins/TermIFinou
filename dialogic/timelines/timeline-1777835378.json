@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://Artes/Arte-TFEAE/CABANA-FORA.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -29,6 +33,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "O medo aperta seu peito quando você entra."
+		},
+		{
+			"background": "res://Artes/Arte-TFEAE/CABANA-DENTRO.png",
+			"event_id": "dialogic_021"
 		},
 		{
 			"animation": "1-fade_in.gd",
@@ -80,10 +88,6 @@
 		},
 		{
 			"emit_signal": "carta_antiga",
-			"event_id": "dialogic_040"
-		},
-		{
-			"emit_signal": "buceta",
 			"event_id": "dialogic_040"
 		},
 		{

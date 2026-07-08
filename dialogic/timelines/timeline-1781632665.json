@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://Artes/Arte-TFEAE/GALPAO.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -53,6 +57,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Os cabelos — brancos — estão escurecidos, tingidos de vermelho, colados à pele. É difícil dizer onde terminam as manchas e onde começa o corpo."
+		},
+		{
+			"background": "res://Artes/Arte-TFEAE/Galpao_aslan.png",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
@@ -214,6 +222,10 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"background": "res://Artes/Fundos/oseawt2l.png",
+			"event_id": "dialogic_021"
 		},
 		{
 			"change_timeline": "timeline-1781632679.json",

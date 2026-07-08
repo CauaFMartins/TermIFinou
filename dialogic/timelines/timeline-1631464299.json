@@ -126,26 +126,6 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"animation": "4-fade_out.gd",
-			"animation_length": 0,
-			"change_mirror_portrait": false,
-			"change_z_index": false,
-			"character": "character-1783515799.json",
-			"event_id": "dialogic_002",
-			"mirror_portrait": false,
-			"portrait": "",
-			"portrait_definition": "",
-			"position": {
-				"0": false,
-				"1": false,
-				"2": false,
-				"3": false,
-				"4": false
-			},
-			"type": 1,
-			"z_index": 0
-		},
-		{
 			"change_timeline": "timeline-1777835378.json",
 			"event_id": "dialogic_020"
 		}

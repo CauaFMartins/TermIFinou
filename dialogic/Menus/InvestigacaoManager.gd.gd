@@ -40,27 +40,3 @@ func _receber_sinal(valor):
 				"Amara"
 				
 			)
-
-		"pegadas":
-
-			Global.adicionar_pista(
-				"Pegadas Misteriosas",
-				"Foram encontradas pegadas próximas ao rio.",
-				"Aslan"
-			)
-
-		"carta_antiga":
-
-			Global.adicionar_pista(
-				"Carta Antiga",
-				"Uma carta antiga foi encontrada dentro da biblioteca.",
-				"Lian"
-			)
-		"buceta": 
-			
-			Global.adicionar_pista(
-				"Bucetão",
-				"Uma buceta molhadinha e cabeludona, bem pretona punk de franja",
-				"Piro_Dotado"
-			)	
-			
