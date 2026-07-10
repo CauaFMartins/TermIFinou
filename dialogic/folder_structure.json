@@ -5,6 +5,8 @@
 	"folders": {
 		"Characters": {
 			"files": [
+				"character-1783646138.json",
+				"character-1783645431.json",
 				"character-1783515799.json",
 				"character-1783475100.json",
 				"character-1783474424.json",
@@ -59,7 +61,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Themes": {
@@ -73,7 +75,7 @@
 			},
 			"metadata": {
 				"color": null,
-				"folded": false
+				"folded": true
 			}
 		},
 		"Timelines": {

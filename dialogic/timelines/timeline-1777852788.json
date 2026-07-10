@@ -74,6 +74,10 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"background": "res://Artes/Arte-TFEAE/visão-galpao.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"change_timeline": "timeline-1777916583.json",
 			"event_id": "dialogic_020"
 		}

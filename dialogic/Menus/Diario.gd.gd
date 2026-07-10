@@ -58,7 +58,11 @@ func atualizar_diario():
 		investigador.align = Label.ALIGN_LEFT
 		investigador.text = "Descoberto por: " + pista["personagem"]
 
-		var separador = HSeparator.new()
+		var separador = TextureRect.new()
+		separador.texture = load("res://Artes/diario/separator.png")
+		separador.expand = true
+		separador.stretch_mode = TextureRect.STRETCH_KEEP_ASPECT_CENTERED
+		separador.rect_min_size = Vector2(0, 40)
 
 		bloco.add_child(titulo)
 		bloco.add_child(descricao)

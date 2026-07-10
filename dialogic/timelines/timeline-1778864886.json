@@ -156,10 +156,6 @@
 			"value": ""
 		},
 		{
-			"emit_signal": "pegadas",
-			"event_id": "dialogic_040"
-		},
-		{
 			"event_id": "dialogic_013"
 		},
 		{

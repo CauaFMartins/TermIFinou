@@ -35,6 +35,26 @@
 			"value": ""
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -79,11 +99,35 @@
 			"value": ""
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"event_id": "dialogic_013"
 		},
 		{
-			"background": "res://icon.png",
+			"background": "res://Artes/Fundos/oseawt2l.png",
 			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_024",
+			"set_theme": "theme-1783514224.cfg"
 		},
 		{
 			"character": "",
@@ -105,7 +149,11 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"background": "res://ChatGPT Image 16 de jun. de 2026, 16_10_22 (1).png",
+			"event_id": "dialogic_024",
+			"set_theme": "theme-1631463496.cfg"
+		},
+		{
+			"background": "res://Artes/diario/AC974F01-2DBF-43D5-A7E5-1858E175A273.png",
 			"event_id": "dialogic_021"
 		},
 		{

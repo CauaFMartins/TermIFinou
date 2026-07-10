@@ -25,6 +25,10 @@
 			"text": "Vamos."
 		},
 		{
+			"background": "res://Artes/Arte-TFEAE/bar dentro.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -218,6 +222,34 @@
 			"text": "E pela primeira vez desde que chegaram, nenhum dos dois continua falando imediatamente depois disso. Eles só observam."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"event_id": "dialogic_024",
+			"set_theme": "theme-1783514224.cfg"
+		},
+		{
+			"background": "res://Artes/Fundos/oseawt2l.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -237,8 +269,8 @@
 			"event_id": "dialogic_013"
 		},
 		{
-			"background": "res://Artes/Fundos/virginia-rebate-criticas-coleira-vini-jr_2259.jpeg",
-			"event_id": "dialogic_021"
+			"event_id": "dialogic_024",
+			"set_theme": "theme-1631463496.cfg"
 		},
 		{
 			"change_timeline": "timeline-1783361104.json",

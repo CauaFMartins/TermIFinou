@@ -1,6 +1,10 @@
 {
 	"events": [
 		{
+			"background": "res://Artes/Arte-TFEAE/Cabana_neve.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -61,6 +65,10 @@
 			"text": "Três meses se passaram."
 		},
 		{
+			"emit_signal": "tres_meses",
+			"event_id": "dialogic_040"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -117,6 +125,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://Artes/diario/E04CD272-7340-43A0-8C1F-C7044012720E.jpeg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"event_id": "dialogic_013"

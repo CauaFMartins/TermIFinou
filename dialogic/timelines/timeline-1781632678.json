@@ -50,6 +50,26 @@
 			"text": "Você para alguns passos dele, observando. Por um momento, parece que ele não percebeu sua presença."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1777839556.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -72,6 +92,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Não é longa, mas suficiente para gerar dúvidas — se ele escolheu, se entendeu, se vai responder."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1777851120.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1777851120.json",

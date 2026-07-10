@@ -75,19 +75,7 @@
 			"value": ""
 		},
 		{
-			"emit_signal": "teste",
-			"event_id": "dialogic_040"
-		},
-		{
-			"emit_signal": "corrente_lian",
-			"event_id": "dialogic_040"
-		},
-		{
-			"emit_signal": "pegadas",
-			"event_id": "dialogic_040"
-		},
-		{
-			"emit_signal": "carta_antiga",
+			"emit_signal": "silencio_cabana",
 			"event_id": "dialogic_040"
 		},
 		{

@@ -29,6 +29,10 @@
 			"value": ""
 		},
 		{
+			"background": "res://Artes/Arte-TFEAE/bar noite.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -99,10 +103,18 @@
 			"text": "E você segue em direção à porta."
 		},
 		{
+			"background": "res://Artes/Arte-TFEAE/bar dentro.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Ao entrarem na estalagem Viajante Errante, o ambiente muda imediatamente."
+		},
+		{
+			"emit_signal": "viajante_errante",
+			"event_id": "dialogic_040"
 		},
 		{
 			"change_timeline": "timeline-1783359341.json",

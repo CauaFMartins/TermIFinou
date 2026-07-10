@@ -53,6 +53,10 @@
 			"value": ""
 		},
 		{
+			"emit_signal": "corrente_lian",
+			"event_id": "dialogic_040"
+		},
+		{
 			"definition": "1781631819-970",
 			"event_id": "dialogic_014",
 			"operation": "=",

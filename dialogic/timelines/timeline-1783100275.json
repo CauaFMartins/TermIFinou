@@ -79,6 +79,10 @@
 			"text": "Devagar."
 		},
 		{
+			"background": "res://Artes/Arte-TFEAE/CABANA-DE-MANHA.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
