@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Heavenly Loop.ogg-79a5ab08c481fc1bc4f4efd76f030883.oggstr"
+
+[deps]
+
+source_file="res://Artes/Arte-TFE/Som/Heavenly Loop.ogg"
+dest_files=[ "res://.import/Heavenly Loop.ogg-79a5ab08c481fc1bc4f4efd76f030883.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

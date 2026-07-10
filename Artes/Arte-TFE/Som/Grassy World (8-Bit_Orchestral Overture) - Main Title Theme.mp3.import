@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Grassy World (8-Bit_Orchestral Overture) - Main Title Theme.mp3-c8faadc6421f46902a1cf805d648ddea.mp3str"
+
+[deps]
+
+source_file="res://Artes/Arte-TFE/Som/Grassy World (8-Bit_Orchestral Overture) - Main Title Theme.mp3"
+dest_files=[ "res://.import/Grassy World (8-Bit_Orchestral Overture) - Main Title Theme.mp3-c8faadc6421f46902a1cf805d648ddea.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/eviltoon3.mp3-90b475b52ddc1fb6d0d1104a2e040030.mp3str"
+
+[deps]
+
+source_file="res://Artes/Arte-TFE/Som/eviltoon3.mp3"
+dest_files=[ "res://.import/eviltoon3.mp3-90b475b52ddc1fb6d0d1104a2e040030.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
