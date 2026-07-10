@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/project_181.mp3-22399caeb094332d0cf89b801ecedd82.mp3str"
+
+[deps]
+
+source_file="res://Artes/Arte-TFEAE/Som/project_181.mp3"
+dest_files=[ "res://.import/project_181.mp3-22399caeb094332d0cf89b801ecedd82.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

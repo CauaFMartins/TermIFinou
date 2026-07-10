@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/theme.ogg-129287af6c5829e044ab253c4dafc48d.oggstr"
+
+[deps]
+
+source_file="res://Artes/Arte-TFEAE/Som/theme.ogg"
+dest_files=[ "res://.import/theme.ogg-129287af6c5829e044ab253c4dafc48d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

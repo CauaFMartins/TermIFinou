@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/eviltoon3.mp3-97cbca5ea2838013d692867eeec50c3c.mp3str"
+
+[deps]
+
+source_file="res://Artes/Arte-TFEAE/Som/eviltoon3.mp3"
+dest_files=[ "res://.import/eviltoon3.mp3-97cbca5ea2838013d692867eeec50c3c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
