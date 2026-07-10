@@ -25,6 +25,10 @@
 			"text": "Sobre uma entrega."
 		},
 		{
+			"emit_signal": "entrega",
+			"event_id": "dialogic_040"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -132,6 +136,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Nem a gente."
+		},
+		{
+			"emit_signal": "tres_homens",
+			"event_id": "dialogic_040"
 		},
 		{
 			"character": "",

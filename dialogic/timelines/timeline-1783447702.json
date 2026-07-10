@@ -66,6 +66,10 @@
 			"value": ""
 		},
 		{
+			"background": "res://Artes/Arte-TFEAE/Janela.PNG",
+			"event_id": "dialogic_021"
+		},
+		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -139,11 +143,19 @@
 			"value": ""
 		},
 		{
+			"background": "res://Artes/Arte-TFEAE/kael-apanha-aqui.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"choice": "Ignorar",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://Artes/Arte-TFEAE/bar dentro.png",
+			"event_id": "dialogic_021"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -179,6 +191,26 @@
 			"text": "O garoto tenta acertar um deles de volta, mas um dos homens segura o braço dele antes."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -193,6 +225,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"background": "res://Artes/Arte-TFEAE/kael-apanha-aqui.png",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
@@ -300,7 +336,7 @@
 			"position": {
 				"0": false,
 				"1": false,
-				"2": false,
+				"2": true,
 				"3": false,
 				"4": false
 			},

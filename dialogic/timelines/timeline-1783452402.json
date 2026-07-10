@@ -13,6 +13,26 @@
 			"text": "Um dos outros homens assovia"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783100811.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1783100811.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -29,6 +49,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Um sorriso preguiçoso surge em seu rosto."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783472721.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1783472721.json",
@@ -66,6 +106,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Seu olhar desce até o rapaz caído no chão. Você observa a cena por alguns segundos. O silêncio faz os homens trocarem olhares."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783100813.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1783100813.json",
@@ -128,6 +188,26 @@
 			"text": "Gostei dela."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -135,6 +215,26 @@
 			],
 			"portrait": "",
 			"question": "Você se abaixa."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783474424.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"choice": "Queimar.",
@@ -191,6 +291,26 @@
 			"event_id": "dialogic_013"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -201,6 +321,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Até os três homens parecem abalados. O entusiasmo de antes desaparece, deixando apenas surpresa e receio. Com um passo trêmulo, um deles se aproxima."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783100811.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1783100811.json",
@@ -255,7 +395,7 @@
 			"set_value": "100"
 		},
 		{
-			"background": "res://Artes/Arte-TFEAE/Alert-dos-comandos/gameover.jpg",
+			"background": "res://Artes/Arte-TFEAE/Morte_novo.PNG",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -287,6 +427,26 @@
 		},
 		{
 			"event_id": "dialogic_013"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"change_timeline": "timeline-1783453461.json",

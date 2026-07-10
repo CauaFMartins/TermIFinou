@@ -7,6 +7,26 @@
 			"value": "apaziguar"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783100813.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1783100813.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -17,6 +37,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "um deles pergunta, soltando uma risada."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783100811.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1783100811.json",
@@ -169,6 +209,26 @@
 			"set_value": "7"
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"event_id": "dialogic_013"
 		},
 		{
@@ -182,6 +242,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Você acompanha o olhar dele até o fim. "
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783472721.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1783472721.json",
@@ -199,7 +279,7 @@
 			"character": "character-1777839556.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Talveez"
+			"text": "Talvez"
 		},
 		{
 			"character": "",
@@ -253,6 +333,26 @@
 			"text": "Por um segundo, há silêncio. Então um dos outros homens cai na gargalhada."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783100813.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": true,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "character-1783100813.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -275,6 +375,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Assim como?"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783100811.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1783100811.json",

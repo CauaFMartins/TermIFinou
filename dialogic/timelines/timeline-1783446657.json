@@ -13,7 +13,7 @@
 			"text": "Vamos descer, temos um longo dia."
 		},
 		{
-			"background": "res://Artes/Fundos/galap.png",
+			"background": "res://Artes/Arte-TFEAE/bar dia.png",
 			"event_id": "dialogic_021"
 		},
 		{
@@ -21,6 +21,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "O salão da Viajante Errante ainda está acordando junto com a cidade. O movimento é menor do que nas noites cheias, mais lento, mais humano."
+		},
+		{
+			"background": "res://Artes/Arte-TFEAE/bar dentro.png",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
@@ -41,13 +45,33 @@
 			"text": "Aslan segue ao lado de Amara enquanto procuram uma mesa livre perto da janela. Sem precisar conversar muito, os dois já sabem quais lugares oferecem melhor visão da entrada e menos atenção desnecessária."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783645431.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Uma das atendentes passa por eles com uma bandeja apoiada no ombro."
 		},
 		{
-			"character": "character-1783475100.json",
+			"character": "character-1783645431.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Vocês acordaram tarde hoje."
@@ -90,6 +114,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "A atendente ri baixo antes de continuar andando."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783645431.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"character": "",

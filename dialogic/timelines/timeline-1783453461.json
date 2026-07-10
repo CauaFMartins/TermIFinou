@@ -34,6 +34,10 @@
 			"text": "Então a porta da Viajante Errante se abre."
 		},
 		{
+			"background": "res://Artes/diario/IMG_3082.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -108,6 +112,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"emit_signal": "voz_familiar",
+			"event_id": "dialogic_040"
 		},
 		{
 			"event_id": "dialogic_013"

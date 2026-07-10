@@ -7,13 +7,13 @@
 			"value": "lutar"
 		},
 		{
-			"character": "",
+			"character": "character-1783472721.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "",
-			"question": "\"Que foi?\""
+			"question": "Que foi?"
 		},
 		{
 			"choice": "Vou perder meu tempo conversando com vocês ou vamos resolver isso de uma vez.",
@@ -197,6 +197,26 @@
 			"text": "Os três trocam olhares antes de seguirem para o Viajante Errante, empurrando a porta com força e desaparecendo para dentro do bar em meio a uma enxurrada de reclamações e ameaças."
 		},
 		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_001",
 			"portrait": "",
@@ -213,6 +233,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Ele ergue os olhos."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783474424.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
 		},
 		{
 			"character": "character-1777839556.json",
@@ -322,6 +362,26 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "Antes de virar a esquina, ele para. Lança um último olhar em sua direção. Então segue seu caminho sozinho."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1783474424.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"definition": "1783466287-787",

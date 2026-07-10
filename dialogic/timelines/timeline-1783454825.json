@@ -125,6 +125,10 @@
 			"text": "Os dois deixam algumas moedas sobre a mesa. Sem pressa. Sem chamar atenção. Esperam os homens saírem primeiro."
 		},
 		{
+			"background": "res://Artes/diario/IMG_3081.png",
+			"event_id": "dialogic_021"
+		},
+		{
 			"character": "",
 			"event_id": "dialogic_010",
 			"options": [
@@ -141,14 +145,35 @@
 			"value": ""
 		},
 		{
-			"character": "",
-			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "1- GAME OVER"
+			"event_id": "dialogic_024",
+			"set_theme": "theme-1783514224.cfg"
 		},
 		{
-			"background": "res://Artes/Arte-TFE/Alert-dos-comandos/safe.png",
+			"background": "res://Artes/Arte-TFEAE/Morte_novo.PNG",
 			"event_id": "dialogic_021"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": ""
+		},
+		{
+			"choice": "Reiniciar",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_scene": "res://project/MainScene.tscn",
+			"event_id": "dialogic_041"
+		},
+		{
+			"event_id": "dialogic_013"
 		},
 		{
 			"choice": "Sair",
@@ -156,6 +181,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"emit_signal": "seguindo_suspeitos",
+			"event_id": "dialogic_040"
 		},
 		{
 			"character": "",
@@ -168,6 +197,10 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "O movimento da estalagem desaparece. O Viajante Errante fica para trás. Então surge a floresta. Imensa. Densa."
+		},
+		{
+			"background": "res://Artes/Arte-TFEAE/floresta densa.jpg",
+			"event_id": "dialogic_021"
 		},
 		{
 			"character": "",
@@ -209,6 +242,10 @@
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
+		},
+		{
+			"emit_signal": "chamado_vento",
+			"event_id": "dialogic_040"
 		},
 		{
 			"event_id": "dialogic_013"
