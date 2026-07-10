@@ -13,9 +13,9 @@
 	"portraits": [
 		{
 			"name": "Default",
-			"path": "res://Artes/Arte-TFE/Personagens/Cataria_atendente.png"
+			"path": "res://Artes/Arte-TFEAE/Personagens/Cora_atentendente2.png"
 		}
 	],
-	"scale": 100,
+	"scale": 30,
 	"theme": ""
 }
